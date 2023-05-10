@@ -1,5 +1,5 @@
 {
-  "name": "ts-node-starter",
+  "name": "youtube-comment-summarizer",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
