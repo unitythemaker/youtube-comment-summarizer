@@ -2,6 +2,8 @@ import { readFileSync, writeFileSync } from "fs";
 import { asyncPool } from "./utils/async-pool";
 import { Configuration, OpenAIApi } from "openai";
 import { config as dotenvConfig } from "dotenv";
+import fs from "fs";
+import path from "path";
 
 dotenvConfig();
 
@@ -12,14 +14,54 @@ const openai = new OpenAIApi(configuration);
 
 const systemPrompt = readFileSync(`${process.cwd()}/config/prompt.txt`, "utf8");
 
-const items1 =
-  JSON.parse(readFileSync(`${process.cwd()}/config/data1.json`, "utf8")).items;
-const items2 =
-  JSON.parse(readFileSync(`${process.cwd()}/config/data2.json`, "utf8")).items;
-const items3 =
-  JSON.parse(readFileSync(`${process.cwd()}/config/data3.json`, "utf8")).items;
+type CommentThread = {
+  kind: string;
+  etag: string;
+  id: string;
+  snippet: {
+    videoId: string;
+    topLevelComment: {
+      kind: string;
+      etag: string;
+      id: string;
+      snippet: {
+        videoId: string;
+        textDisplay: string;
+        textOriginal: string;
+        authorDisplayName: string;
+        authorProfileImageUrl: string;
+        authorChannelUrl: string;
+        authorChannelId: {
+          value: string;
+        };
+        canRate: boolean;
+        viewerRating: string;
+        likeCount: number;
+        publishedAt: string;
+        updatedAt: string;
+      };
+    };
+    canReply: boolean;
+    totalReplyCount: number;
+    isPublic: boolean;
+  };
+};
 
-const items = [...items1, ...items2, ...items3];
+let items = [] as CommentThread[];
+let index = 1;
+
+while (fs.existsSync(path.join(process.cwd(), `config/data${index}.json`))) {
+  const fileData = fs.readFileSync(
+    path.join(process.cwd(), `config/data${index}.json`),
+    "utf8",
+  );
+  const parsedData = JSON.parse(fileData).items;
+  items = [...items, ...parsedData];
+  index++;
+}
+
+console.log(items);
+
 const filtered = items.filter((item) =>
   item.snippet.topLevelComment.snippet.textOriginal.toLowerCase().includes(
     "fpfikir-",
@@ -83,7 +125,10 @@ async function main() {
 
   console.log("Top 10:", top10);
 
-  writeFileSync(`${process.cwd()}/config/summarized.json`, JSON.stringify(results, null, 2));
+  writeFileSync(
+    `${process.cwd()}/config/summarized.json`,
+    JSON.stringify(results, null, 2),
+  );
 }
 
 main();

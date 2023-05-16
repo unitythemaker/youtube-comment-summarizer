@@ -1,0 +1,3179 @@
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "ZCGX4vM2r87tjMiUlUfWE4_3f7I",
+  "nextPageToken": "QURTSl9pMkVWUUxPU29iemdJSHBiZ2VYNDFpQ09QODh5ak9OdjlzRFB5RF9rNzlmbTdjdnVNWlVGVFFlbXBrdzEzMmZET2hkR3B5dnR2UWQ1WU5oSGlzMG5EblA5ckM1LXc=",
+  "pageInfo": {
+    "totalResults": 99,
+    "resultsPerPage": 100
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rZZdGIHr-VkGk9yoIJE6BatWCd8",
+      "id": "UgzhdVAj8yaSA2Q89Wl4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "XfoLaI6jRxarvo0qd_3r7xoW0SM",
+          "id": "UgzhdVAj8yaSA2Q89Wl4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Hayırlı olsun",
+            "textOriginal": "Hayırlı olsun",
+            "authorDisplayName": "Mustafa Aygör",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqP9G3AuEyUp0uhJH0GVLRJfJcK5VuBO6ADfkSpK2g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtMC51odLE-uR206VaFEqiQ",
+            "authorChannelId": {
+              "value": "UCtMC51odLE-uR206VaFEqiQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:51:35Z",
+            "updatedAt": "2023-05-10T13:51:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "KwbEYpCiJW7kwcdq6mhk98JDN08",
+      "id": "UgzdhuXLPywIX-g1dQl4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "P9fGiB_Wo-ZvGW07C9sPwl1EVYQ",
+          "id": "UgzdhuXLPywIX-g1dQl4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Bu kadar projeyi Elon Musk yapmıyor abi Maşallah diyorum susuyorum... 😂🔥❤",
+            "textOriginal": "Bu kadar projeyi Elon Musk yapmıyor abi Maşallah diyorum susuyorum... 😂🔥❤",
+            "authorDisplayName": "Emir Doğuhan Çelik",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/mgfvFRiVSk5IVm77Tz3wRVO_0o8DPAvQpRf79vMaVyJyhzBVrk7WdLeNUrIDgvPvI_KzGQAB=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNN_v5anMpoJGndl-wCkTuA",
+            "authorChannelId": {
+              "value": "UCNN_v5anMpoJGndl-wCkTuA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:51:22Z",
+            "updatedAt": "2023-05-10T13:51:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "EL28AiEAkmH3WeK6je26e82qDJc",
+      "id": "Ugzk3R1U4SgkGUAs-9d4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "FWUQULnP7tHj6P6mNAiE5ERKR-A",
+          "id": "Ugzk3R1U4SgkGUAs-9d4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir-Biliyorum çok uçuk ama bence kendi haritalarımızı yapma olmalı ve steam atolyesinden indirme.Evet çok uçuk belki yapımı zor olabilir ama zaten bunlar fikir.Elimde fazlasıyla bulunun birşey de kendisi.",
+            "textOriginal": "fpfikir-Biliyorum çok uçuk ama bence kendi haritalarımızı yapma olmalı ve steam atolyesinden indirme.Evet çok uçuk belki yapımı zor olabilir ama zaten bunlar fikir.Elimde fazlasıyla bulunun birşey de kendisi.",
+            "authorDisplayName": "ErikKr",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPQw4kV5m_ZDBO9vYzLIbVEQadkFJbyQpsZWEFa1CdMLF3oNj8CC6v2szKY5tqg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCKQSeWsWPS-zyALlPYcT1Tg",
+            "authorChannelId": {
+              "value": "UCKQSeWsWPS-zyALlPYcT1Tg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-05-10T13:50:56Z",
+            "updatedAt": "2023-05-10T13:50:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "CZ0Rt9q6nOVNEPJlMuUbC-4kYyU",
+      "id": "UgyfWRmdxbgBq65qQBJ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Flz1Gl6c2lZc2Fyan3J1ZPAOOv4",
+          "id": "UgyfWRmdxbgBq65qQBJ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- \u003cbr\u003eöncelikle bizim için gayret gösterdiğiniz bir oyun umarım ileri Zaman&#39;larda daha iyilerini de geliştirip yapabilirsiniz. Lobide beklerken çok sıkıcı olabilir (bazılarına ya da herkese göre) bence oyunun temasını bozmadan bir saman ile parkur oluşturulabilir. Hatta o samanla yapılan parkurun bir fiziği ve güzelliği olmalı (teması bozulmadan) vb. Bu parkur çok ileri ve animasyon eklenerek çok iyi şeyler de yapılabilir...   Hepinize bol şans inşallah bu oyun çok ileriye gider parasız olmasını da bekleriz",
+            "textOriginal": "fpfikir- \nöncelikle bizim için gayret gösterdiğiniz bir oyun umarım ileri Zaman'larda daha iyilerini de geliştirip yapabilirsiniz. Lobide beklerken çok sıkıcı olabilir (bazılarına ya da herkese göre) bence oyunun temasını bozmadan bir saman ile parkur oluşturulabilir. Hatta o samanla yapılan parkurun bir fiziği ve güzelliği olmalı (teması bozulmadan) vb. Bu parkur çok ileri ve animasyon eklenerek çok iyi şeyler de yapılabilir...   Hepinize bol şans inşallah bu oyun çok ileriye gider parasız olmasını da bekleriz",
+            "authorDisplayName": "Blue Chess",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOMcE11tiMtTs4rMKE29ZdPkuF9vurD2CHqx-NJqz7NuAccNgbu25tHi8bICV5M=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQPFuVBSBAf2Gd6wfUISwPw",
+            "authorChannelId": {
+              "value": "UCQPFuVBSBAf2Gd6wfUISwPw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2023-05-10T13:50:41Z",
+            "updatedAt": "2023-05-10T14:21:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 2,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "jd7XTZGPRGRNyJYsF9LWLGdik7E",
+      "id": "UgxuugsIjwkAais0oyJ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HlcRauQ__uO3uhfd7C8_UonhsBE",
+          "id": "UgxuugsIjwkAais0oyJ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir - parkurlu yakalamaca yada saklambaç tarzı minigameler olabilir",
+            "textOriginal": "fpfikir - parkurlu yakalamaca yada saklambaç tarzı minigameler olabilir",
+            "authorDisplayName": "AhmetRYX",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/v7pIP1_8WwAHgtSZu9xZRk3yPOe2xP7ncc1y0X5aZWSGtf44L4x9IQtwi_ShEcvBdyC0_mEVkw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTldTKd1grwCMzNFMsvgQGw",
+            "authorChannelId": {
+              "value": "UCTldTKd1grwCMzNFMsvgQGw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-05-10T13:50:38Z",
+            "updatedAt": "2023-05-10T13:50:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "S-BTAgHTwxfQ0OErXe2-ZuXD4Ik",
+      "id": "Ugz0_97QNlPvEfjJeHt4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nqsRVgTXUQK68Uht_qXgEEZRwCk",
+          "id": "Ugz0_97QNlPvEfjJeHt4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Oyun mobile gelicekmi",
+            "textOriginal": "Oyun mobile gelicekmi",
+            "authorDisplayName": "Furkan Tangal",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/s-aZvhkz9XUx-ychEaNEkQYmyVnKqDEXT-9CdzYO-Kb2j23djIP3gmwHqz4W84OTPaXARq_eBg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCfEKbrOqBEp28d952OyJ0lw",
+            "authorChannelId": {
+              "value": "UCfEKbrOqBEp28d952OyJ0lw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:50:30Z",
+            "updatedAt": "2023-05-10T13:50:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "EPYqdCiZBEZlDtz3BDfvmOhLlc8",
+      "id": "UgxuoC0hv9YAemh8PGd4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Hx5wTKs_Ikw4bCpuabiWPzjORrs",
+          "id": "UgxuoC0hv9YAemh8PGd4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Çok tatlış bir oyun olmuş. Elinize yüreğinize sağlık...",
+            "textOriginal": "Çok tatlış bir oyun olmuş. Elinize yüreğinize sağlık...",
+            "authorDisplayName": "Deniz Ahmet",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/OtnFInxbSiEtfjjaKyX2u3u_n-ycNpl2vjifpSV6K9ji2K1J5PvXR3rEp6fX8JZSCaHhG3Kb5g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCqHj3deIbsOgqwGYUv2oAKw",
+            "authorChannelId": {
+              "value": "UCqHj3deIbsOgqwGYUv2oAKw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:49:44Z",
+            "updatedAt": "2023-05-10T13:49:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PnOldgBn7J1grgIwoEjKaSsb7iA",
+      "id": "UgyvnJO6pUSVbVv7FU14AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "kXmMAW9gXhzSoXJJ4mZ3QbaXe0Q",
+          "id": "UgyvnJO6pUSVbVv7FU14AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- mariodaki ateş çiçeği gibi karakterlere özel güç versek çok daha eğlenceli oyun modları çıkabilir bence",
+            "textOriginal": "fpfikir- mariodaki ateş çiçeği gibi karakterlere özel güç versek çok daha eğlenceli oyun modları çıkabilir bence",
+            "authorDisplayName": "hadi2le",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Zui4cRnuSJE34iL90h-NQs2PRPNDbI2mZRM8FVBqO8_sG7TMx4jJ7E5ZGxgTIWodChzaT9ibRuc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCVCeuM_wkymrk_lhOg_zhMQ",
+            "authorChannelId": {
+              "value": "UCVCeuM_wkymrk_lhOg_zhMQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:49:32Z",
+            "updatedAt": "2023-05-10T13:49:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "shGFSarvuFRwN8weiO6YVFICmus",
+      "id": "UgwSnlTrW9_deBjmruN4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "SHSCYcu7xgsATES39EDO5-OoFMg",
+          "id": "UgwSnlTrW9_deBjmruN4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir - labirent modu.\u003cbr\u003efp fikir - saklambac modu.",
+            "textOriginal": "fpfikir - labirent modu.\nfp fikir - saklambac modu.",
+            "authorDisplayName": "sertrans08",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOlxUpJ6B9aJOYv-vLhK2EEx60gLCs9Z8AmRUa3=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCUJNlan_bNz6hQNhIh_CHlA",
+            "authorChannelId": {
+              "value": "UCUJNlan_bNz6hQNhIh_CHlA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:49:05Z",
+            "updatedAt": "2023-05-10T13:49:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "r1SS8nUJrvJhvOAvSb6pZ6ZAC30",
+      "id": "Ugy0x14m2H0I2h7f9RB4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6Gup0wCDkypLOTu1VfsXWVttMlo",
+          "id": "Ugy0x14m2H0I2h7f9RB4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- abi bence diğer oyuncuları beklerken hangarın içine girebilme olabilir. Bazı gizli mesajlarda koyarsınız. Elinize sağlık",
+            "textOriginal": "fpfikir- abi bence diğer oyuncuları beklerken hangarın içine girebilme olabilir. Bazı gizli mesajlarda koyarsınız. Elinize sağlık",
+            "authorDisplayName": "ömer yıldırım",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/KjNE6_6vvYoaHpqMswMbEjEYfJhB7B6mzUBY_o-TaCueOBuB2cNfZ78PMnkK7oOD1Ocn6D_n=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCGzitym-m5V5I5fT_OI5l7Q",
+            "authorChannelId": {
+              "value": "UCGzitym-m5V5I5fT_OI5l7Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 5,
+            "publishedAt": "2023-05-10T13:48:54Z",
+            "updatedAt": "2023-05-10T13:48:54Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "563F_hFAg8BNQxdCVclwWFev4gU",
+      "id": "UgwbaS-A1IagyA8Wdrx4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "BTGVL4jIYZeaxmlP0yuuSBAr5CU",
+          "id": "UgwbaS-A1IagyA8Wdrx4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Fpfikir - gizli tuzaklar olabilir, basit dikkatli bakinca anlaşilan ama aksiyon aninda cokta goze carpmayan, karmaşa cikaran minik tuzaklar",
+            "textOriginal": "Fpfikir - gizli tuzaklar olabilir, basit dikkatli bakinca anlaşilan ama aksiyon aninda cokta goze carpmayan, karmaşa cikaran minik tuzaklar",
+            "authorDisplayName": "Rufet",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNHJcYJqZeNGUgt2pEfOwceScz33TaxRxWjXgiM_76nIkcdrqyip1KC7EOo8d5N=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCy7lfD2tRk1at3cWqpl9smQ",
+            "authorChannelId": {
+              "value": "UCy7lfD2tRk1at3cWqpl9smQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-05-10T13:48:49Z",
+            "updatedAt": "2023-05-10T13:49:18Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "pgdhp1JHQUuGp_FSvi9JVwWZWG0",
+      "id": "UgxB13osq82JIhfoE494AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "rA4LFH7WChJEgZbRWAAk7Xpy_jM",
+          "id": "UgxB13osq82JIhfoE494AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Zsuat&#39;a 1 like da bizden. Çıplak vatandaşa selam olsun.",
+            "textOriginal": "Zsuat'a 1 like da bizden. Çıplak vatandaşa selam olsun.",
+            "authorDisplayName": "Juky's Channel",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/0SAl5vf000_ryCVYEYgr2IeY1eZpY9OtztDcl00uA1utu3dO_OB-OQZyYrnLpgt2NNTo4cLioE0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6N172gmv3HbbEKeEGz6qOg",
+            "authorChannelId": {
+              "value": "UC6N172gmv3HbbEKeEGz6qOg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:48:33Z",
+            "updatedAt": "2023-05-10T13:48:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "UzNM3JO1uOHfTxZSBEI9_D9CZnA",
+      "id": "UgyvNz8lGRBiO6IzoDZ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6B4aKwg9nYT_pm0RFnvdduQxTzM",
+          "id": "UgyvNz8lGRBiO6IzoDZ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "ubisoft bu kadar hızlı oyun çıkarmıyor valla helal olsun",
+            "textOriginal": "ubisoft bu kadar hızlı oyun çıkarmıyor valla helal olsun",
+            "authorDisplayName": "Mehmet Çakar",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNhOR_XTOmoxzIhRE6A-IR5i85YMxYIVnb3llWid3M=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5wicuTpBft2QRgxi9TwTcA",
+            "authorChannelId": {
+              "value": "UC5wicuTpBft2QRgxi9TwTcA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:48:22Z",
+            "updatedAt": "2023-05-10T13:48:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "grjzPi9kXRp1CXCMIY8Wt3s3QHU",
+      "id": "Ugw5bESqdai4wlXK9tF4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nxgcvIKk5KmNO-mQWICK0UgwPtQ",
+          "id": "Ugw5bESqdai4wlXK9tF4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- birbirine bağlı aynı takımdan kuşlar ile her zıpladığımızda yeri değişen platformlar birlikte kullanılabilir. Takım arkadaşlarını birlikte hareket etmeye zorlayan oyunlar eğlenceli oluyor genelde.",
+            "textOriginal": "fpfikir- birbirine bağlı aynı takımdan kuşlar ile her zıpladığımızda yeri değişen platformlar birlikte kullanılabilir. Takım arkadaşlarını birlikte hareket etmeye zorlayan oyunlar eğlenceli oluyor genelde.",
+            "authorDisplayName": "muhammet sait güler",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOVotw0i3i5XvkM1X3umduTrZHMKIkrqYIcog=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCt6DiFVCClRmPeEblptt_yA",
+            "authorChannelId": {
+              "value": "UCt6DiFVCClRmPeEblptt_yA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:48:20Z",
+            "updatedAt": "2023-05-10T13:48:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "yyBJE2Gx5etvEUTDi_ywVawXlPg",
+      "id": "UgyugvTat9S9vxGbQpZ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "J0TJjELFcYcPS7-gKdO2mcR6e7w",
+          "id": "UgyugvTat9S9vxGbQpZ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- yerden kalem aldigimiz ve o kalemleri kalem tras ile actigimiz bir vs modu gelebilir. Kalemlerin acma zorlugu olabilir mesela kursun kalem daha hizli kalem tras ile acilirken dolma kalem daha yavas acilip daha fazla puan verebilir.",
+            "textOriginal": "fpfikir- yerden kalem aldigimiz ve o kalemleri kalem tras ile actigimiz bir vs modu gelebilir. Kalemlerin acma zorlugu olabilir mesela kursun kalem daha hizli kalem tras ile acilirken dolma kalem daha yavas acilip daha fazla puan verebilir.",
+            "authorDisplayName": "Cagdas Aydogan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqP3EUHlrPXmitSjzaySl7fejhL9FEI1xOFnVQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_GjBOe-Q5_5HVOsn9mqFGQ",
+            "authorChannelId": {
+              "value": "UC_GjBOe-Q5_5HVOsn9mqFGQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:47:59Z",
+            "updatedAt": "2023-05-10T13:47:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "qmhdMDU9wTUJj9YQgI9g3cmqyLA",
+      "id": "UgzjQ-YSVLt1NzRfdyV4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "p1AOaNQecraN5QmJUfu_QKaNDKU",
+          "id": "UgzjQ-YSVLt1NzRfdyV4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Şeffaf Bi tabaka olsun onun altında labirent ve labirent d eğitim takip eden canavar olsun ve canavarı çıkışa götürmeye çalışalım bence güzel Bi oyun olabiljr",
+            "textOriginal": "Şeffaf Bi tabaka olsun onun altında labirent ve labirent d eğitim takip eden canavar olsun ve canavarı çıkışa götürmeye çalışalım bence güzel Bi oyun olabiljr",
+            "authorDisplayName": "Menemeow",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/JKsrrNmBYH8oGyeY4TJMCxMbPi6vkK5o0vPpkES5iC3-LlcwduQnxIUMngnd6_SJC5s5YnSH=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCuSim6OCcPElCMaeeXqU4-w",
+            "authorChannelId": {
+              "value": "UCuSim6OCcPElCMaeeXqU4-w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:47:58Z",
+            "updatedAt": "2023-05-10T13:47:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "loODhqWNxTD2GIMC9K58Je1dBVI",
+      "id": "UgyJ-VxDf0xPN6z0sgZ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "oMra98KFXdwXG6c8ZE79u_pht6A",
+          "id": "UgyJ-VxDf0xPN6z0sgZ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- yarış oyunu olabilir, craft tarzında oyunlar",
+            "textOriginal": "fpfikir- yarış oyunu olabilir, craft tarzında oyunlar",
+            "authorDisplayName": "Ali Eren Yüce",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/yoR1ujyE4OdtCviW6CfXrQphBCLggoPOO-Qn9Dq_a02-9zz0Hv5LukgYHoJymG-BaFieenHHqA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnEjoPDeYbdv85Us3eynFIA",
+            "authorChannelId": {
+              "value": "UCnEjoPDeYbdv85Us3eynFIA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:47:56Z",
+            "updatedAt": "2023-05-10T13:47:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "qmzoh3I6pzCMOXWWyZkd0Te1-rs",
+      "id": "Ugzi0045gTb5AX_1igR4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "nlF251DRo_z_kVn2mHcMoC061hk",
+          "id": "Ugzi0045gTb5AX_1igR4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Ellerinize,emeğinize,yüreğinize sağlık...Umarım hedeflediğinizden çooookkk daha büyük başarılar elde edersiniz.Hak ediyorsunuz...",
+            "textOriginal": "Ellerinize,emeğinize,yüreğinize sağlık...Umarım hedeflediğinizden çooookkk daha büyük başarılar elde edersiniz.Hak ediyorsunuz...",
+            "authorDisplayName": "yaşlı kurt",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPH-Oj4PBocsS7_-sWqtCIrtrLuPCf8Gx8GUFJJpfXhWjo1nmDZnxWK137xBig3=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjShb_O5vyGEK35ZP98D-iQ",
+            "authorChannelId": {
+              "value": "UCjShb_O5vyGEK35ZP98D-iQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2023-05-10T13:47:40Z",
+            "updatedAt": "2023-05-10T13:47:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9r84LV4cmhNmmhWhFdyS9gXEEEQ",
+      "id": "Ugyr4n1xsv3dpkXctJd4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "YcWVaMnO8XNspCPVS-MKc17Vp5A",
+          "id": "Ugyr4n1xsv3dpkXctJd4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- Kuş türü ama uçamıyor dediniz ya. Bir oyun modunda kuşların hayali olan uçmalarını sağlayacak bir kanat takılıp süzülme, çırpma ve yoldan boost alma gibi mekaniklerle havada yarış yapılabilir. İkinci olarakta kuşları kovalayan bir mobtan kaçtığınız kaçarkende oyuncuları yakalatabilmenizi sağlayan özellik ve tuzaklar olan bir oyun modu güzel olabilir.",
+            "textOriginal": "fpfikir- Kuş türü ama uçamıyor dediniz ya. Bir oyun modunda kuşların hayali olan uçmalarını sağlayacak bir kanat takılıp süzülme, çırpma ve yoldan boost alma gibi mekaniklerle havada yarış yapılabilir. İkinci olarakta kuşları kovalayan bir mobtan kaçtığınız kaçarkende oyuncuları yakalatabilmenizi sağlayan özellik ve tuzaklar olan bir oyun modu güzel olabilir.",
+            "authorDisplayName": "KChulus",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/X_KqiPnG60BJUJH1hF8_SL7k2saUKyLohtPelX8C_IOrMMCw9XRqIA09tNu1nya7xyW3ITGMvg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5INhxts350g0pWNS4EK9Eg",
+            "authorChannelId": {
+              "value": "UC5INhxts350g0pWNS4EK9Eg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-05-10T13:47:26Z",
+            "updatedAt": "2023-05-10T13:47:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7BD2tZquffkYs5_KRfRIbi3c8yg",
+      "id": "UgwtwOP4pZQeo9UEANZ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qjFBGpQMmLCaPw1Cuc4X_8obAYY",
+          "id": "UgwtwOP4pZQeo9UEANZ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "çok güzel görünüyor :)",
+            "textOriginal": "çok güzel görünüyor :)",
+            "authorDisplayName": "Tren_Sürücüsü",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/kKVbwSsQw0WI2Bsz7TU19iu1bjotfXXEBi2LvLMSQhvAjVogxNUK3k3TZFMjEyLeCglCt6sUrp8=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC68757qb5mlSKpiEtGgEMog",
+            "authorChannelId": {
+              "value": "UC68757qb5mlSKpiEtGgEMog"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:47:02Z",
+            "updatedAt": "2023-05-10T13:47:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "X9jbKWb9dF2ZUIdAx_6EQwvxPw4",
+      "id": "UgxiF2iG_gfNJgPWpcV4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "fFN9kN43vEfKRBvWmeVfEBPOjTo",
+          "id": "UgxiF2iG_gfNJgPWpcV4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Yerli oyun üreticileri olduğunuz için oyunun Türkçe dil desteği olmasını isterdim, birde oyun fall guys kopyası gibi olmuş buna da bir tk özgünlüğü katılsa tatlı olur",
+            "textOriginal": "Yerli oyun üreticileri olduğunuz için oyunun Türkçe dil desteği olmasını isterdim, birde oyun fall guys kopyası gibi olmuş buna da bir tk özgünlüğü katılsa tatlı olur",
+            "authorDisplayName": "MantisMan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMRTJ7ra4EiE-B4vxD5PHB-Glpik_ao7nS-qC9WpFU=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8ggmHrOOeclQOUssAEAKEQ",
+            "authorChannelId": {
+              "value": "UC8ggmHrOOeclQOUssAEAKEQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:46:33Z",
+            "updatedAt": "2023-05-10T13:46:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eaWeRNij-5XWplQWiOBWazYqWao",
+      "id": "Ugz3GYQw3Ycnc_l9dKt4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WyOwO-O26UWJM8J0u9cp7DB_Ab8",
+          "id": "Ugz3GYQw3Ycnc_l9dKt4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "İstek listesine ekledik bile 💕 Heyecanla bekliyoruuzz! 😍🥳",
+            "textOriginal": "İstek listesine ekledik bile 💕 Heyecanla bekliyoruuzz! 😍🥳",
+            "authorDisplayName": "Ece",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNxaw4KlbOXsBT5B_V9fRba-gRNfvrsJvtwF4HUug=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC9kt5bC28F4ehsHrcYDaYVA",
+            "authorChannelId": {
+              "value": "UC9kt5bC28F4ehsHrcYDaYVA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2023-05-10T13:46:32Z",
+            "updatedAt": "2023-05-10T13:46:32Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "gOIjAoS0LrJj1C5iJBeb-JDi8y4",
+      "id": "UgxBE6tONR_07ZARFRV4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "5D5_-wHtUhHtDg4soPnscqeuNLA",
+          "id": "UgxBE6tONR_07ZARFRV4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "4.53 deki sahne ne ya çıkaramadım",
+            "textOriginal": "4.53 deki sahne ne ya çıkaramadım",
+            "authorDisplayName": "Spuzzler",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/DaEbsZYhic3efVAyjjDUb8clac1wmE2yuZGuVqFZA3AkMs_yNPwKA3d3BYuR270GnFGxplCX=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCm-C_rmaIj9_sJbffqoGlQA",
+            "authorChannelId": {
+              "value": "UCm-C_rmaIj9_sJbffqoGlQA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:46:19Z",
+            "updatedAt": "2023-05-10T13:46:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "1dgtYaZFk53Ngy-7PCsC-IcpVu4",
+      "id": "UgwAc84vDcrbYTCH-r54AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "LYAKGsukfW9Fta6plltKMF1lCjE",
+          "id": "UgwAc84vDcrbYTCH-r54AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Çok güzel olmuş elinize sağlık hiç beklemiyodum",
+            "textOriginal": "Çok güzel olmuş elinize sağlık hiç beklemiyodum",
+            "authorDisplayName": "Serhad Kadir Yutmaz",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNZkweINoBESdsDdTuYYpqfV6sGI82GkHInqQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8C1lbFG7rwC-PUCZQG6Dkw",
+            "authorChannelId": {
+              "value": "UC8C1lbFG7rwC-PUCZQG6Dkw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:46:09Z",
+            "updatedAt": "2023-05-10T13:46:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 5,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WBQOlpuqhRhZxH7ftmu7fG6lyUM",
+      "id": "UgyLcOaffpq3PyW36jR4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "NMPypYGepNBjPxTAiq2jQTap5C8",
+          "id": "UgyLcOaffpq3PyW36jR4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir - diyer oyunlarınıza gondermeler (Easter eggler) olsun. Bu ararda Hayirli olsun başarilarinizin devamini dilelrim",
+            "textOriginal": "fpfikir - diyer oyunlarınıza gondermeler (Easter eggler) olsun. Bu ararda Hayirli olsun başarilarinizin devamini dilelrim",
+            "authorDisplayName": "Rufet",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNHJcYJqZeNGUgt2pEfOwceScz33TaxRxWjXgiM_76nIkcdrqyip1KC7EOo8d5N=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCy7lfD2tRk1at3cWqpl9smQ",
+            "authorChannelId": {
+              "value": "UCy7lfD2tRk1at3cWqpl9smQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 2,
+            "publishedAt": "2023-05-10T13:46:03Z",
+            "updatedAt": "2023-05-10T13:46:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TSgXYK3PX5AsbvCZOAoZ4cZ-ezU",
+      "id": "UgxRC2R5SjTGT74kx0t4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6M01cCnoi9uoVl36Rxpbm_gyZcc",
+          "id": "UgxRC2R5SjTGT74kx0t4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "TenkaKalp",
+            "textOriginal": "TenkaKalp",
+            "authorDisplayName": "Pin Phalange",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/0zNKo19MIQeQ8MLCMFCrqF5gAtAFlQccZE6O2xS6068OuWbbLQwAZAdbAIAWaxHBHlFRTywHiWQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCtSreI9k5CAInquqktNXZKQ",
+            "authorChannelId": {
+              "value": "UCtSreI9k5CAInquqktNXZKQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:45:49Z",
+            "updatedAt": "2023-05-10T13:45:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "efroeB2mfg1nbwhPSochUtSimsw",
+      "id": "UgydquyiCEhuJH28gTF4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9GHNJx5AscXdHLdvxf9kB44env8",
+          "id": "UgydquyiCEhuJH28gTF4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- silahşör oyunu olabilir civcivler birbirine vurdukça silahlarla puan alır. Silahlar özel olabilir ak47 gibi değilde dogadaki tahtadir farkli şeyler olabilir",
+            "textOriginal": "fpfikir- silahşör oyunu olabilir civcivler birbirine vurdukça silahlarla puan alır. Silahlar özel olabilir ak47 gibi değilde dogadaki tahtadir farkli şeyler olabilir",
+            "authorDisplayName": "Ali Eren Yüce",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/yoR1ujyE4OdtCviW6CfXrQphBCLggoPOO-Qn9Dq_a02-9zz0Hv5LukgYHoJymG-BaFieenHHqA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnEjoPDeYbdv85Us3eynFIA",
+            "authorChannelId": {
+              "value": "UCnEjoPDeYbdv85Us3eynFIA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:45:47Z",
+            "updatedAt": "2023-05-10T13:45:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "kWu7vFpLjA_6Q4QZXZT0FLUJTD4",
+      "id": "Ugyxq-E8KNILGlKUO7d4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "W_FtCCLvSofWC9vcJR8e1MVlcXI",
+          "id": "Ugyxq-E8KNILGlKUO7d4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- anne tavuğun civcivlere matematik sinavi yaptigi ve her yanlista cetvel ile 1 can goturdugu bir oyun modu olabilir.",
+            "textOriginal": "fpfikir- anne tavuğun civcivlere matematik sinavi yaptigi ve her yanlista cetvel ile 1 can goturdugu bir oyun modu olabilir.",
+            "authorDisplayName": "Cagdas Aydogan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqP3EUHlrPXmitSjzaySl7fejhL9FEI1xOFnVQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_GjBOe-Q5_5HVOsn9mqFGQ",
+            "authorChannelId": {
+              "value": "UC_GjBOe-Q5_5HVOsn9mqFGQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:45:46Z",
+            "updatedAt": "2023-05-10T13:45:46Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ClyCPl79qG6AY7La1aQXmpSLoYU",
+      "id": "UgwfLKbuMQo4GtKsvYR4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "08PDcMvQRbk_vDcInd92Rv7iKFE",
+          "id": "UgwfLKbuMQo4GtKsvYR4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- oyuna su ve ateş oyunu gibi bir mod eklenebilir. Herkes kendi rengindeki sıvıya girebilir başka sıvıya temas ederse ölür. Ve beraber puzzle bulmacalarla bölüm geçmeye çalışırlar",
+            "textOriginal": "fpfikir- oyuna su ve ateş oyunu gibi bir mod eklenebilir. Herkes kendi rengindeki sıvıya girebilir başka sıvıya temas ederse ölür. Ve beraber puzzle bulmacalarla bölüm geçmeye çalışırlar",
+            "authorDisplayName": "Cemile Türkmen",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNndXwo93N4jm4HStbeVU5QtDM2fCBmK6vlOgQQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMKHoXjC8Xs7IF7RMn-dgwQ",
+            "authorChannelId": {
+              "value": "UCMKHoXjC8Xs7IF7RMn-dgwQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:45:45Z",
+            "updatedAt": "2023-05-10T13:45:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "MTTvTzHrm8G43TnsM6ATlh_bs8A",
+      "id": "UgzGSnwDYP-OlBjiVa14AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ULDoZ0n_V-vGyYGCshnZE8O06sk",
+          "id": "UgzGSnwDYP-OlBjiVa14AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- Oyuna ilerleyen zamanda harita tasarlayıcı eklenebilir.Steam deki atölye üzerinden yada oyunun içinden başka oyuncuların tasarladığı haritalar oynanabilir. Bu şekilde sınırsız içerik olur oyunda",
+            "textOriginal": "fpfikir- Oyuna ilerleyen zamanda harita tasarlayıcı eklenebilir.Steam deki atölye üzerinden yada oyunun içinden başka oyuncuların tasarladığı haritalar oynanabilir. Bu şekilde sınırsız içerik olur oyunda",
+            "authorDisplayName": "ceyhun",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/TJofWKrA_iBKGZZcAlBahECxiSwIUaWV-vTwXS1Ca1ZgUq_-wuTk0F2kFZQNSrzcqBDxq2XsFw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCE7sKJHjBx0qTF55Df-071A",
+            "authorChannelId": {
+              "value": "UCE7sKJHjBx0qTF55Df-071A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:45:14Z",
+            "updatedAt": "2023-05-10T13:45:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "9svgq4nrJAtZ4gKe4o139Ia8MPg",
+      "id": "UgzkR4gCfA2-bZovg4h4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HhdwsKmrEYtw8m1qqg0YtSX1518",
+          "id": "UgzkR4gCfA2-bZovg4h4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- labirent",
+            "textOriginal": "fpfikir- labirent",
+            "authorDisplayName": "Ali Eren Buz",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPT5gg2XCnn1nFFbIeVBzDNXBeRXe0jGU6VBQot5Q=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-nsBlE2AaOvWZThEtg7Syw",
+            "authorChannelId": {
+              "value": "UC-nsBlE2AaOvWZThEtg7Syw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:45:05Z",
+            "updatedAt": "2023-05-10T13:45:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "psqf0XJ5hlkSDsUr_8rVHJiSnPk",
+      "id": "UgwJJ4v2XceVpSJ_TvV4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "u94L1tmm-2QLe3wuq7LHZvdiVIk",
+          "id": "UgwJJ4v2XceVpSJ_TvV4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir-  1 Bomberman gibi  bomba yerine yumurta bırakabilir batlayan yumurtanın  özellikleri olabilir  mesela bombada olabilir zehirli çürük yumurtada arkadaşına aynı zamanda canda verebilir.\u003cbr\u003e2 süper marioda ki gibi baflanabilir ve  tavuk olur ve rakibine  üstünlük saglarr extra özelllikleri olabilir.",
+            "textOriginal": "fpfikir-  1 Bomberman gibi  bomba yerine yumurta bırakabilir batlayan yumurtanın  özellikleri olabilir  mesela bombada olabilir zehirli çürük yumurtada arkadaşına aynı zamanda canda verebilir.\n2 süper marioda ki gibi baflanabilir ve  tavuk olur ve rakibine  üstünlük saglarr extra özelllikleri olabilir.",
+            "authorDisplayName": "Emre çınar",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMKWfdtOTvT9Ui6b_TKOYjjTPmDMxeucTKcwnArzw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCXw0CRrAQL-9zCsiJg8w9cA",
+            "authorChannelId": {
+              "value": "UCXw0CRrAQL-9zCsiJg8w9cA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:45:02Z",
+            "updatedAt": "2023-05-10T13:45:02Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Rc9gMMJ35sMlG4hHnQl2zMoWqlM",
+      "id": "Ugz5_s48JezKNQRWHhR4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xz70wrqYWl1IcOZZlp0kCvUfX8s",
+          "id": "Ugz5_s48JezKNQRWHhR4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- anne tavuktan kactigim bir oyun modu olabilir. Ben temayi dusundum gerisi sizde 😇",
+            "textOriginal": "fpfikir- anne tavuktan kactigim bir oyun modu olabilir. Ben temayi dusundum gerisi sizde 😇",
+            "authorDisplayName": "Cagdas Aydogan",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqP3EUHlrPXmitSjzaySl7fejhL9FEI1xOFnVQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC_GjBOe-Q5_5HVOsn9mqFGQ",
+            "authorChannelId": {
+              "value": "UC_GjBOe-Q5_5HVOsn9mqFGQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:44:01Z",
+            "updatedAt": "2023-05-10T13:44:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "N9e12AzHugX7mFt68AGtogzwMdQ",
+      "id": "UgwwJaJFS5vIU3Tsc5t4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6VK2qxvULnLuOWTCoSV66OpTQUk",
+          "id": "UgwwJaJFS5vIU3Tsc5t4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- abi modlanabilir yapsanız daha çok kafadan daha çok oyun modları çıkacağını düşünüyorum",
+            "textOriginal": "fpfikir- abi modlanabilir yapsanız daha çok kafadan daha çok oyun modları çıkacağını düşünüyorum",
+            "authorDisplayName": "Yapay Zeka Anlatıyor",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/EKI5AgAwq9RbzwDLulP3Eg6PWIT8AqHDxFAXoz0xoTcUFYWTBPtRPH4u_KGuWQj0i6-7pKGL=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6DgllsH7Uk8T5LBzPzeDZQ",
+            "authorChannelId": {
+              "value": "UC6DgllsH7Uk8T5LBzPzeDZQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:43:57Z",
+            "updatedAt": "2023-05-10T13:44:45Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "G8OWdoEA4YJiNYS9f7XHJeLJdAI",
+      "id": "Ugz1BnIyFAb0DhbM-5p4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "f_G8hCXUirBKANT3KzCUHU39kQM",
+          "id": "Ugz1BnIyFAb0DhbM-5p4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Çocuklarımın da oynayabileceği bir oyuna benziyor. Çok güzel elinize sağlık 👏🏻",
+            "textOriginal": "Çocuklarımın da oynayabileceği bir oyuna benziyor. Çok güzel elinize sağlık 👏🏻",
+            "authorDisplayName": "Conqueror",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNVrUZwcq6-tBk-ugV6FFtqCO8MlvYb7lu_9jMjkvxpFvubdiQfeDenL1cW0iWf=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCL7GwJG0e7xzXzMb2eFmszQ",
+            "authorChannelId": {
+              "value": "UCL7GwJG0e7xzXzMb2eFmszQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:43:26Z",
+            "updatedAt": "2023-05-10T13:43:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "srbfmExbglbcXnTms2zjhUVlHl4",
+      "id": "UgxtWuHpnITr9z3g8Gl4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "WE9F2eY-BhQvW9XhVAEyHxfjPUY",
+          "id": "UgxtWuHpnITr9z3g8Gl4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir-Bence slime rancher gibi bir farm oyunu ama işte mesela slimeları köle yaptığımız versiyon.Bir başka fikir yine slime rancher gibi farm oyunu ama aynı zamanda kule savunma açıklamam gerekirse işte arka tarafta slime,canavar...vb şeyleri yetiştirip ön tarafta işte wave şeklinde gelen canavarları hatta biz slime veya canavar kullanırsak bize insanların saldırması daha mantıklı olur.Bir başka fikir bence kesinlikle factario veya satisfactory tarzı(tabiki bunlar örnek) otomasyon oyunu yapılabilir.Şimdilik hayal gücüm bunları düşündü elinizdeki ekipleride tam olarak bilmediğim için yapabilirmisiniz bilemem ama kesinlikle şuana kadar yaptığınız bütün oyunlar işçilik harikası geliştirdiğiniz oyunlarınızda kolaylıklar başarılarınız devamını dilerim.Seviliyosun Suat abi ve ekip özellikle ekip.\u003cbr\u003e\u003cbr\u003eDüzenleme:Ben yorumlara göre bayağı bir yanlış anlamışım sanırım ben yeni oyun fikri zanediyordum ama sanırım bu oyun için minigame önerisiymiş.",
+            "textOriginal": "fpfikir-Bence slime rancher gibi bir farm oyunu ama işte mesela slimeları köle yaptığımız versiyon.Bir başka fikir yine slime rancher gibi farm oyunu ama aynı zamanda kule savunma açıklamam gerekirse işte arka tarafta slime,canavar...vb şeyleri yetiştirip ön tarafta işte wave şeklinde gelen canavarları hatta biz slime veya canavar kullanırsak bize insanların saldırması daha mantıklı olur.Bir başka fikir bence kesinlikle factario veya satisfactory tarzı(tabiki bunlar örnek) otomasyon oyunu yapılabilir.Şimdilik hayal gücüm bunları düşündü elinizdeki ekipleride tam olarak bilmediğim için yapabilirmisiniz bilemem ama kesinlikle şuana kadar yaptığınız bütün oyunlar işçilik harikası geliştirdiğiniz oyunlarınızda kolaylıklar başarılarınız devamını dilerim.Seviliyosun Suat abi ve ekip özellikle ekip.\n\nDüzenleme:Ben yorumlara göre bayağı bir yanlış anlamışım sanırım ben yeni oyun fikri zanediyordum ama sanırım bu oyun için minigame önerisiymiş.",
+            "authorDisplayName": "ErikKr",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPQw4kV5m_ZDBO9vYzLIbVEQadkFJbyQpsZWEFa1CdMLF3oNj8CC6v2szKY5tqg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCKQSeWsWPS-zyALlPYcT1Tg",
+            "authorChannelId": {
+              "value": "UCKQSeWsWPS-zyALlPYcT1Tg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:43:15Z",
+            "updatedAt": "2023-05-10T14:05:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "G2dZWDYrRO-MAcWOKAyM1PlzGWQ",
+      "id": "UgxnjlfzxUq2gx5n5v14AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "kNhbHEnRtInknAQkMBZYrOfQUfE",
+          "id": "UgxnjlfzxUq2gx5n5v14AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "yürüyün be kim tutar sizi. başarılarınız daim olsun TENEKE KAFALAR",
+            "textOriginal": "yürüyün be kim tutar sizi. başarılarınız daim olsun TENEKE KAFALAR",
+            "authorDisplayName": "Ahmet",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqN6_24UP9GsnLHtyAgClVOqT7G9Np_HueziNjNF9w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC1AzeCPSgL-OaV54RN8oEiw",
+            "authorChannelId": {
+              "value": "UC1AzeCPSgL-OaV54RN8oEiw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:43:09Z",
+            "updatedAt": "2023-05-10T13:43:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PnK_lww5faZE-_fXm68k9HZbtis",
+      "id": "UgyVQWveOU25hGNykHV4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "FJvnvNCnjMCcn-33eHsMJ4TWrZA",
+          "id": "UgyVQWveOU25hGNykHV4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Güzel olmuş oyun. Genelde online çok kişili oyunlar yapıyorsunuz. Tek kişili hikayeli bir oyun güzel olur. Arkadaşlarıyla oyun oynamayan insanlar için hoş olur. Her yaptığınız oyunda üstüne koymanız güzel. Tasarımsal olarak tatlı olmuş. Tek kişilik hikayeli veya bulmaca tarzı bir oyun güzel olur.",
+            "textOriginal": "Güzel olmuş oyun. Genelde online çok kişili oyunlar yapıyorsunuz. Tek kişili hikayeli bir oyun güzel olur. Arkadaşlarıyla oyun oynamayan insanlar için hoş olur. Her yaptığınız oyunda üstüne koymanız güzel. Tasarımsal olarak tatlı olmuş. Tek kişilik hikayeli veya bulmaca tarzı bir oyun güzel olur.",
+            "authorDisplayName": "Ash Jackal",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/SKIuSzh6vLs4XSBY26BpC9PsVUFi13GfN6tW-q2F8_Zo1DVc0iHuiEvcrgu-8VKGJurn7Gnc9w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjG5kM2BpVTPE7ahma1_pEg",
+            "authorChannelId": {
+              "value": "UCjG5kM2BpVTPE7ahma1_pEg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:43:05Z",
+            "updatedAt": "2023-05-10T13:43:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "KGMlKxv2OKlDiJPsp-COX8wIm18",
+      "id": "Ugx51V9Q5ZK-657qdyZ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7dnlKcSEV7W254iucoGxwBFkOaw",
+          "id": "Ugx51V9Q5ZK-657qdyZ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir-abi bence mobil oyunda çıkartın çünkü herkesin bilgisayarı olmayabilir",
+            "textOriginal": "fpfikir-abi bence mobil oyunda çıkartın çünkü herkesin bilgisayarı olmayabilir",
+            "authorDisplayName": "hamza tangut",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqO_Q_oQxZh1q7CIxsXt06iRA6Y-7aJbniDbONn5=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbHi4DPRW38pMK2LR-tso1w",
+            "authorChannelId": {
+              "value": "UCbHi4DPRW38pMK2LR-tso1w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:43:00Z",
+            "updatedAt": "2023-05-10T13:43:00Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "2k0Oi7O0W4u7ItOkNGhcssfx_DQ",
+      "id": "UgyvJZfe4f6PQzH4hrF4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "51N2A6DCTWuHB9AqK7hEQ8_v66U",
+          "id": "UgyvJZfe4f6PQzH4hrF4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- angry birds&#39;teki 3 tane mavi kuş vardı onları bi oyun modunda ekleyebilirsiniz. ekstra olarak bi tarlada oyun başlar, bu tarlada random yerlerde kurtçuklar spawn olur ve herkes hayatta kalmak için kurtçuk yer. belli bi süreden sonra oyuna zaman girer ve en az yiyenler sıra sıra elenmeye başlar. elenenler ise isterseniz çiftçi olarak oyuna geri döner ve bu seferde kurtçuk avında olanları yakalamaya çalışır. başarılarınızın devamını diliyorum, seviliyorsunuz.",
+            "textOriginal": "fpfikir- angry birds'teki 3 tane mavi kuş vardı onları bi oyun modunda ekleyebilirsiniz. ekstra olarak bi tarlada oyun başlar, bu tarlada random yerlerde kurtçuklar spawn olur ve herkes hayatta kalmak için kurtçuk yer. belli bi süreden sonra oyuna zaman girer ve en az yiyenler sıra sıra elenmeye başlar. elenenler ise isterseniz çiftçi olarak oyuna geri döner ve bu seferde kurtçuk avında olanları yakalamaya çalışır. başarılarınızın devamını diliyorum, seviliyorsunuz.",
+            "authorDisplayName": "TengriTeg",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/uayfK5lBBe6Orp2xq0YjdDJHIn-cbcn0NASyEDlXGbewjbj1GK9R9W4KERT4AR_c3u9897hg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCSgnLu04DC1g3PnO6lr-ItQ",
+            "authorChannelId": {
+              "value": "UCSgnLu04DC1g3PnO6lr-ItQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 29,
+            "publishedAt": "2023-05-10T13:42:58Z",
+            "updatedAt": "2023-05-10T13:42:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 5,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "p1Mb1jTpWsIMXjsjGHN2al5N7JY",
+      "id": "UgwxwyKLfvFkwZ94XJ94AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "G6-K55SdZOQSYvYVYSlP_xoEWM0",
+          "id": "UgwxwyKLfvFkwZ94XJ94AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Yine çok güzel çok ponçik bir oyun olmuş.. Ellerinize emeklerinize sağlık Suat.. \u003ca href=\"about:invalid#zCSafez\"\u003e\u003c/a\u003e",
+            "textOriginal": "Yine çok güzel çok ponçik bir oyun olmuş.. Ellerinize emeklerinize sağlık Suat.. ",
+            "authorDisplayName": "Gölge",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMPEWnJMu5kreWgai8lLP6UjC6z-80CpGUUSMN3wR0=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCU3zCGXM9yaHkalTVOoBgpQ",
+            "authorChannelId": {
+              "value": "UCU3zCGXM9yaHkalTVOoBgpQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 17,
+            "publishedAt": "2023-05-10T13:42:55Z",
+            "updatedAt": "2023-05-10T13:42:55Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "L2i9tSBv-RH9hAEN26pg-HTma3g",
+      "id": "Ugw0uG_fmkbxywMeqjZ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "mV9kds4P_FaH0KI7w6R9IRO2ztE",
+          "id": "Ugw0uG_fmkbxywMeqjZ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Adamlar sevdikleri oyunları yapıyorlar.\u003cbr\u003eTown of Salem, Fall Guys derken PUBG&#39;de yapacaklar inanıyorum :) \u003cbr\u003eHelal olsun.",
+            "textOriginal": "Adamlar sevdikleri oyunları yapıyorlar.\nTown of Salem, Fall Guys derken PUBG'de yapacaklar inanıyorum :) \nHelal olsun.",
+            "authorDisplayName": "Mvp #07",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/VBUHGr3Z9YCoSg1_WiQxpKMnikieqZIBPCWj90ck059gy00oZQYlKSYgtC1Z2jLDILuuD4MmTr4=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCON6NOEqnyITOlYJv8cbIFQ",
+            "authorChannelId": {
+              "value": "UCON6NOEqnyITOlYJv8cbIFQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:42:49Z",
+            "updatedAt": "2023-05-10T13:42:49Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "W8h3Est-9o22RVNa7C8EMzdfH1Q",
+      "id": "Ugw0-P0nZ9NmGnQvTFh4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0J8F_6uv3Zo05TXFl-ZPCKbvNHI",
+          "id": "Ugw0-P0nZ9NmGnQvTFh4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- ipleri karşılıklı bağlayarak diğer civcivleri düşürmek vb için ipler oyuncular tarafından kullanılabilir olabilir.",
+            "textOriginal": "fpfikir- ipleri karşılıklı bağlayarak diğer civcivleri düşürmek vb için ipler oyuncular tarafından kullanılabilir olabilir.",
+            "authorDisplayName": "ALİ BAKIR",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNxG9srjBjcfHvHWOnG79ZGia3E-ut6j-Da=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCav9j8tJxTL4eqjEPzKioMA",
+            "authorChannelId": {
+              "value": "UCav9j8tJxTL4eqjEPzKioMA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 3,
+            "publishedAt": "2023-05-10T13:42:44Z",
+            "updatedAt": "2023-05-10T13:42:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VgpHkX56yhswBZpbHJlZPQ048Dc",
+      "id": "UgwGbrt0zUSBMu2xhwl4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "iAABYg885_IMNE3wRiAwSLVtIBw",
+          "id": "UgwGbrt0zUSBMu2xhwl4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Fpfikir- Oyuncuların hem zamanla hemde kapanan kapılara karşı yarıştığı bir oyun olabilir dash mekaniğini kullanmayı gerektiren mesela eğer geçemezse sersemlesin.Parkurun sonuna gelen oyuncular yol üzerindeki tuzakları kullanabilsin mesela sona gelen oyuncu ona yaklaşanların başına kutu düşürsün sersemletsin vb.",
+            "textOriginal": "Fpfikir- Oyuncuların hem zamanla hemde kapanan kapılara karşı yarıştığı bir oyun olabilir dash mekaniğini kullanmayı gerektiren mesela eğer geçemezse sersemlesin.Parkurun sonuna gelen oyuncular yol üzerindeki tuzakları kullanabilsin mesela sona gelen oyuncu ona yaklaşanların başına kutu düşürsün sersemletsin vb.",
+            "authorDisplayName": "Wuhsin_RS",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/rLGL14Ek6nU_F1Ot89MphYL-Ns73JEl4nu-wqz2T2tfRpa3cFCtXBRS6ki9ZmiZNODeqjP447A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRh-aYS4kqOBDcPYdUwU10g",
+            "authorChannelId": {
+              "value": "UCRh-aYS4kqOBDcPYdUwU10g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:42:35Z",
+            "updatedAt": "2023-05-10T13:42:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RaYY9-N3KMP_gVS21qeJ-B7lDBE",
+      "id": "UgxwErg_SaYfYv6Lfzd4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KfLXcANSS1lyeCxDhFCSzigRNCA",
+          "id": "UgxwErg_SaYfYv6Lfzd4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- Monopoly, paramanya tarzında stratejik bir masa oyunu Yapılabilir çeşitli Aksesuarlar ve karakter özellikleri Eklenerek Eğlenceli bir oyun çıkacağına inanıyorum ,  Bu oyun her zaman tutar :)",
+            "textOriginal": "fpfikir- Monopoly, paramanya tarzında stratejik bir masa oyunu Yapılabilir çeşitli Aksesuarlar ve karakter özellikleri Eklenerek Eğlenceli bir oyun çıkacağına inanıyorum ,  Bu oyun her zaman tutar :)",
+            "authorDisplayName": "Oyun Mobilde",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/LPWY5ZBvCmi4ElYOkTRHpWjURHRS0qikAlOx4eGmmBDW_LgqRdcK903cVrYr8HoRnaJfDI9Oqg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCy-6Cwe9fz3rIlBM71J-C9w",
+            "authorChannelId": {
+              "value": "UCy-6Cwe9fz3rIlBM71J-C9w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:42:34Z",
+            "updatedAt": "2023-05-10T13:42:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "opptPlI8OV-irueCcCCXyoqOfTg",
+      "id": "UgzQCfzxgW9T0ULJdGB4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "32Rlk9BM0zrn9eseahzpVK8r46k",
+          "id": "UgzQCfzxgW9T0ULJdGB4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir_abi 0.26 daki o kısımda Adamı itmek yerine tokat animasyonu getirilebilir",
+            "textOriginal": "fpfikir_abi 0.26 daki o kısımda Adamı itmek yerine tokat animasyonu getirilebilir",
+            "authorDisplayName": "Blue Chess",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOMcE11tiMtTs4rMKE29ZdPkuF9vurD2CHqx-NJqz7NuAccNgbu25tHi8bICV5M=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQPFuVBSBAf2Gd6wfUISwPw",
+            "authorChannelId": {
+              "value": "UCQPFuVBSBAf2Gd6wfUISwPw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:42:31Z",
+            "updatedAt": "2023-05-10T13:42:31Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_3FFVbc_PV9WhG_I3zt4Mkg1ABI",
+      "id": "UgxAlr92TKB9JOiTuoF4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "cMH5QwBVwZWDQfJRe705pqpmiF8",
+          "id": "UgxAlr92TKB9JOiTuoF4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "\u003ca href=\"https://www.youtube.com/watch?v=OqnAWFqYVqk&amp;t=4m51s\"\u003e4:51\u003c/a\u003e yeni oyun teaser",
+            "textOriginal": "4:51 yeni oyun teaser",
+            "authorDisplayName": "Zepelli",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/vqh20Ksozk6IMVIWePFUoaxD6cCfvSO42d19s0c8kffedfuYF1UaDkQzu4p-YeaFHFYE3VOF=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2z0XsdRHvYDHlHRp7MBm_A",
+            "authorChannelId": {
+              "value": "UC2z0XsdRHvYDHlHRp7MBm_A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:42:27Z",
+            "updatedAt": "2023-05-10T13:42:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uOG8thYj1PY_8QGT3_-Ljjm90iU",
+      "id": "UgyG6Y_t48wABF6F0yB4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dy4z-p6miG-w83kx_ZD9HBsKdyY",
+          "id": "UgyG6Y_t48wABF6F0yB4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- karabatak türü bi kuş olsun diyelim deniz veya havuzun altındaki yapilan yoldan gidip başka yerden çıkabilir. Ve o su altında jetpacki bulup çıkacağı yer hava olacağından havadan uçarak yüzeye insin :d",
+            "textOriginal": "fpfikir- karabatak türü bi kuş olsun diyelim deniz veya havuzun altındaki yapilan yoldan gidip başka yerden çıkabilir. Ve o su altında jetpacki bulup çıkacağı yer hava olacağından havadan uçarak yüzeye insin :d",
+            "authorDisplayName": "Mert・",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNwiF2xrTcVkx5AjBy_dPI_y67iKAfmDmAsK0JU7klPwWFiW-MLLHBcKVCcbcWg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbpKPAE_2WhdJya8TkpZM_w",
+            "authorChannelId": {
+              "value": "UCbpKPAE_2WhdJya8TkpZM_w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:42:06Z",
+            "updatedAt": "2023-05-10T13:42:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "0v1T1Ae-C-00ifi7bj_VxkfhMjQ",
+      "id": "Ugw9Sy6ZbyjV3vd3rTt4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "9c9Ny_NAguMWeOy86Oed6023KFE",
+          "id": "Ugw9Sy6ZbyjV3vd3rTt4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir-abi bence av oyunu gibi başka bir oyun yapabilirsiniz çok güzel olur demek istedeğim şeyi bu oyunda anlayabilirsin abi",
+            "textOriginal": "fpfikir-abi bence av oyunu gibi başka bir oyun yapabilirsiniz çok güzel olur demek istedeğim şeyi bu oyunda anlayabilirsin abi",
+            "authorDisplayName": "hamza tangut",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqO_Q_oQxZh1q7CIxsXt06iRA6Y-7aJbniDbONn5=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbHi4DPRW38pMK2LR-tso1w",
+            "authorChannelId": {
+              "value": "UCbHi4DPRW38pMK2LR-tso1w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:42:05Z",
+            "updatedAt": "2023-05-10T13:42:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "k1QDxv7-i_G5fwktWatIFVlR0KI",
+      "id": "UgxQymP-uOdlzk5pyYB4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "dwvQtDBEqo8TbvEKLmXIy9LeSCo",
+          "id": "UgxQymP-uOdlzk5pyYB4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Map ultimate chichkrn horse&#39;taki Çiftlik mapine benzemiş",
+            "textOriginal": "Map ultimate chichkrn horse'taki Çiftlik mapine benzemiş",
+            "authorDisplayName": "prorito123",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNviHvGGLFFdKwSNMAatDTeOgEMhNfYaYdGlfQeJIzx2OQXihKx6NUKC8_7Qbsh=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCTUa1G9OlJH6M-afgvqcFkQ",
+            "authorChannelId": {
+              "value": "UCTUa1G9OlJH6M-afgvqcFkQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:41:58Z",
+            "updatedAt": "2023-05-10T13:41:58Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "fbk22g2RNOx_4yNuF0n2Uu5ByzE",
+      "id": "UgyJEuXgVmiBxLZDi7l4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "I87WlAp-sGfrbzvaipe6Zey8_1A",
+          "id": "UgyJEuXgVmiBxLZDi7l4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Elinize sağlık çok minnoş oyun olmuş 🎉❤",
+            "textOriginal": "Elinize sağlık çok minnoş oyun olmuş 🎉❤",
+            "authorDisplayName": "Muhammed Dönmez",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPQENxJTdP8pBBCbEhTyEUL0ARGGbY-dunM53T2EA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCiLy_cAdbAEMK8iSCUVkUUA",
+            "authorChannelId": {
+              "value": "UCiLy_cAdbAEMK8iSCUVkUUA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:41:47Z",
+            "updatedAt": "2023-05-10T13:41:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ibgIu5kljHg2N_eLyF89dYBwLpE",
+      "id": "Ugw_UI6L6CotV8bs6sR4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "eAYchQVOGnun7tlachQJ-MKFASg",
+          "id": "Ugw_UI6L6CotV8bs6sR4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir - bence oyunu oynayan kişiler kendi oyun modlarını yapa bilmek gibi bir imkan olsun ve bütün oyuncularda bu oyun modunu oynaya bilsin.Başka bir fikrim ise oyunda lobide afk kalan ve ya oyuna başla yerine gitmeyen oyuncular oda sahibi veya oy çokluğu ile odadan atıla bilsin",
+            "textOriginal": "fpfikir - bence oyunu oynayan kişiler kendi oyun modlarını yapa bilmek gibi bir imkan olsun ve bütün oyuncularda bu oyun modunu oynaya bilsin.Başka bir fikrim ise oyunda lobide afk kalan ve ya oyuna başla yerine gitmeyen oyuncular oda sahibi veya oy çokluğu ile odadan atıla bilsin",
+            "authorDisplayName": "MSI",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/_oU_bzv7hUjZu-mEY5owKGgXQay8vfuC7immYDmNL4dWe9-YWuRdI3zBDlLZQmfJcxKrg05_nQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCyjPLqBvDHX5fUPhrc7NCTA",
+            "authorChannelId": {
+              "value": "UCyjPLqBvDHX5fUPhrc7NCTA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:41:38Z",
+            "updatedAt": "2023-05-10T13:41:38Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "lB1_OdXmqt_HGU9wCSHZXlVqbLE",
+      "id": "UgzsSVEn-UwFSQkQ08x4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wX24H4JgLHVyv2_rH63-zoNHa-A",
+          "id": "UgzsSVEn-UwFSQkQ08x4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Fpfikir-oyunlarinizin ios a da gelmesini isteriz ve      bu oyunda roketli fight gibi birşeyler olmali ❤",
+            "textOriginal": "Fpfikir-oyunlarinizin ios a da gelmesini isteriz ve      bu oyunda roketli fight gibi birşeyler olmali ❤",
+            "authorDisplayName": "Ayfer Çelebi",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPw6iYHo_3Y34wbuv94MZjPG8YefnU7rROx9ZLFEkWTYLblLmMRvx25s4jWXcbq=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCJ0-AkcBs8MR9OX4E9efZJA",
+            "authorChannelId": {
+              "value": "UCJ0-AkcBs8MR9OX4E9efZJA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:41:26Z",
+            "updatedAt": "2023-05-10T13:41:26Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rrOWhm-d2sYsPPNkcGRBIqNNdHk",
+      "id": "UgwnMmi6grJI13N5l914AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "C5kHlteX2jK-6-aGLsf0PMoIbHw",
+          "id": "UgwnMmi6grJI13N5l914AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Ayyt yine çok tatlış bir oyun mu yoksaaa 🥰",
+            "textOriginal": "Ayyt yine çok tatlış bir oyun mu yoksaaa 🥰",
+            "authorDisplayName": "Hello Shery",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/8h3h9WodYNyx1Tkl_-FWQYUBqKRjS-zOQdrlhYdtjLvgW7C_cULRuLPxBqXTtE4fSE-_kZca=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCpw7PIZUdd6Y-yqa4SjAPTg",
+            "authorChannelId": {
+              "value": "UCpw7PIZUdd6Y-yqa4SjAPTg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:41:14Z",
+            "updatedAt": "2023-05-10T13:41:14Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "K-Nvm_hD9PhmrXXsp25KWuHDtIk",
+      "id": "UgwMqzP5uWS4mUzVxvV4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-i0PxAhCxcWyKsrJUsI3PDEAkl4",
+          "id": "UgwMqzP5uWS4mUzVxvV4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- Mıknatıs ve elektrikle ilgili detaylar da olsun oyunda. Elektrikli yerlere çarpınca kuş çarpılsın. Mıknatısla bazı cisimler çekebilinsin vs. Belki sulu şeyler de eklenebilir.",
+            "textOriginal": "fpfikir- Mıknatıs ve elektrikle ilgili detaylar da olsun oyunda. Elektrikli yerlere çarpınca kuş çarpılsın. Mıknatısla bazı cisimler çekebilinsin vs. Belki sulu şeyler de eklenebilir.",
+            "authorDisplayName": "KORKMAZ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMPFf3Gni9ANSqMNj75LGb9QXzM9vI-lKq3FqLOUg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC2e6z0f6O_qo3knL25yi3BQ",
+            "authorChannelId": {
+              "value": "UC2e6z0f6O_qo3knL25yi3BQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:41:11Z",
+            "updatedAt": "2023-05-10T13:41:51Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "gpp97JEj0dcAuwMTfwXAWag-Kp4",
+      "id": "UgzZSmm7h35kdefkC254AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "I4gEcY6x3V4-G-EipvltLW_bXqk",
+          "id": "UgzZSmm7h35kdefkC254AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- Oyunun tf 2 gibi bir kitlesi olsa güzel olur aslında danslar, rakip ile beşlik , taş kağıt makas gibi şeyler. Bir de oyunun başlangıç adası bir kaplumbağanın üzerinde olsa bence çok tatlı olabilir.",
+            "textOriginal": "fpfikir- Oyunun tf 2 gibi bir kitlesi olsa güzel olur aslında danslar, rakip ile beşlik , taş kağıt makas gibi şeyler. Bir de oyunun başlangıç adası bir kaplumbağanın üzerinde olsa bence çok tatlı olabilir.",
+            "authorDisplayName": "samet yeli",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Z7NVPxBsR_DoziddI3gtasfoTNd9q-pvomsk7UkMVPJNuJMWVLLr8NvyXFIoWvUy3Yczu3Xbfg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UChMdhW7n8N4f-CHQpcmYQHA",
+            "authorChannelId": {
+              "value": "UChMdhW7n8N4f-CHQpcmYQHA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:40:59Z",
+            "updatedAt": "2023-05-10T13:40:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BLAmIW8vTDvRgobi7cM8CD_lOo0",
+      "id": "UgyW4XKdQXMJEaBm1wN4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "z8cDycKdcPoG_6rwKAuvEVfCQkM",
+          "id": "UgyW4XKdQXMJEaBm1wN4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "emeği geçen herkese ayrı ayrı teşekkür ederim başarılar dilerim AMA bilmiyorum mümkün mü ama çok daha iddialı ve benzeri olmayan oyunlar üzerinde çalışmalar yapılsa daha hoş olurdu.Neticede bütün oyunlar kopyası alınmış üzerine ufak değişiklikler ile basitleştirilmiş oyunlar olmuş ama ne olursa olsun sizleri severek ve destekleyerek burdayız Başarılarınız daim olsun TK ailesi seviliyorsunuz ... \u003cdel\u003eFIRTINA\u003c/del\u003e",
+            "textOriginal": "emeği geçen herkese ayrı ayrı teşekkür ederim başarılar dilerim AMA bilmiyorum mümkün mü ama çok daha iddialı ve benzeri olmayan oyunlar üzerinde çalışmalar yapılsa daha hoş olurdu.Neticede bütün oyunlar kopyası alınmış üzerine ufak değişiklikler ile basitleştirilmiş oyunlar olmuş ama ne olursa olsun sizleri severek ve destekleyerek burdayız Başarılarınız daim olsun TK ailesi seviliyorsunuz ... -FIRTINA-",
+            "authorDisplayName": "fırtına İlyas",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPWLvg7bagmEImElH_3_ttatbD2SaziYYR1Xuah=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCd2negXhJ_oDjn6FPt-_WVg",
+            "authorChannelId": {
+              "value": "UCd2negXhJ_oDjn6FPt-_WVg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:40:57Z",
+            "updatedAt": "2023-05-10T13:40:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "F_noBEZezcZVWGVaN-NH5wzxCfY",
+      "id": "UgxI8BrT65-myKZsqFZ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KXIjHbGVjwZicn86q_Ia6-e6sQ0",
+          "id": "UgxI8BrT65-myKZsqFZ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "İnstagram videolarının ne olduğu belli oldu..😊",
+            "textOriginal": "İnstagram videolarının ne olduğu belli oldu..😊",
+            "authorDisplayName": "KesitKingdom",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/qlOJRt2hh6mHUzyTQrlvlSKVSv67BmbbWVjEJ1udps4Gv5_9GCb6pjP4j4WHOoVUiQRurCi03w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkGFZQsY1l1g-TR1FgzY-3g",
+            "authorChannelId": {
+              "value": "UCkGFZQsY1l1g-TR1FgzY-3g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:40:44Z",
+            "updatedAt": "2023-05-10T13:40:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7Z1tG2r_zAaDSATvSTgSdlpMnd4",
+      "id": "UgzN-weazN6_uS2_tY14AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "TEg4lRb3qBTPBr26JEt4Miy0eno",
+          "id": "UgzN-weazN6_uS2_tY14AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir-civcivlerimizin başka ekipmanlar toplayıp birbirini dar ve boşluklu alanda asaği atmaya çalışabilirler harita onersisi",
+            "textOriginal": "fpfikir-civcivlerimizin başka ekipmanlar toplayıp birbirini dar ve boşluklu alanda asaği atmaya çalışabilirler harita onersisi",
+            "authorDisplayName": "SERO REİS9669",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMcgchdjwFA7ls6yS-8UOQ3VOZ89Nq_ix-f=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCMXLQ5Cu5xmQceJ4M2HNJng",
+            "authorChannelId": {
+              "value": "UCMXLQ5Cu5xmQceJ4M2HNJng"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:40:33Z",
+            "updatedAt": "2023-05-10T13:40:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "VnxpLdkzWRM_GAgatfyXIMupW7w",
+      "id": "UgySc5dsR7T1nTkl1dh4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "aC2UpKRxa30P1gpAXRfI05CWOKY",
+          "id": "UgySc5dsR7T1nTkl1dh4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Fpfikir- hareket Eden trenlerin arasından karşındaki cisimleri bulunduğun yere getirme",
+            "textOriginal": "Fpfikir- hareket Eden trenlerin arasından karşındaki cisimleri bulunduğun yere getirme",
+            "authorDisplayName": "TalhaK",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/Paa3kIpDRG6CLk7ivKGrtQ-8QgLCXuhUNKA6Kmjz3Abu0Lf1fdp46RHWxhpWmpPo6gTu6IqY=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC0vNYKbStNR7WUavou_Mbcw",
+            "authorChannelId": {
+              "value": "UC0vNYKbStNR7WUavou_Mbcw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:40:01Z",
+            "updatedAt": "2023-05-10T13:40:01Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "Yb0Uqk7vKf4zSa9ruDWYtcvhMWg",
+      "id": "Ugxd7UligZHT088QHFl4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "44l7x8VQ9rRZHh4LHkjSey3nBE4",
+          "id": "Ugxd7UligZHT088QHFl4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Havada ileri atılma hamlesi biraz fazla fall guys&#39;tan etkilenmiş ama daha tatlı duruyor karakter ve bölüm tasarımı olarak.",
+            "textOriginal": "Havada ileri atılma hamlesi biraz fazla fall guys'tan etkilenmiş ama daha tatlı duruyor karakter ve bölüm tasarımı olarak.",
+            "authorDisplayName": "muhammet sait güler",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOVotw0i3i5XvkM1X3umduTrZHMKIkrqYIcog=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCt6DiFVCClRmPeEblptt_yA",
+            "authorChannelId": {
+              "value": "UCt6DiFVCClRmPeEblptt_yA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:39:06Z",
+            "updatedAt": "2023-05-10T13:39:06Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "oCZ818nFWXR_AeBDJhz4pzv43xg",
+      "id": "UgzqT539lb_LDdPYV2d4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ZejohWoANo17h5w1uIHguNz8Rjs",
+          "id": "UgzqT539lb_LDdPYV2d4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Çok iyi",
+            "textOriginal": "Çok iyi",
+            "authorDisplayName": "Yahya Bal",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqO0DTN3Kva6kYmjw2XbvlrGR7ywr3YMTgbofA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC8RXFf5FvHkTZqPtUtm3MTg",
+            "authorChannelId": {
+              "value": "UC8RXFf5FvHkTZqPtUtm3MTg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:38:47Z",
+            "updatedAt": "2023-05-10T13:38:47Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "05-ZazlrjzZmWHbJw5i0zctfPMI",
+      "id": "UgwuFsGbDWAnPDG5YvN4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "xO3Mg3rBUci3pAmNssmSVncm6qg",
+          "id": "UgwuFsGbDWAnPDG5YvN4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Elinize sağlık abi yine ortaya şaheser çıkmış &lt;3",
+            "textOriginal": "Elinize sağlık abi yine ortaya şaheser çıkmış \u003c3",
+            "authorDisplayName": "LetsPlayRoblox",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/tbaVi_NT8cPzDOylB6xAEdUVEgCXBQbkWhgNAMK0Cy90gJKCQqTmdLOFSOZnRo3Gnoz3zMczRjg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcqKdjbMCP3hmV8Vu8jeHrg",
+            "authorChannelId": {
+              "value": "UCcqKdjbMCP3hmV8Vu8jeHrg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:38:36Z",
+            "updatedAt": "2023-05-10T13:38:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7o-t7CIjds9MNA-CfOLnoYTZofQ",
+      "id": "UgxEEMgdWWAAe7JqfgN4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "GVOUIp5nLtNG_Dc1xbFz4E6SS_4",
+          "id": "UgxEEMgdWWAAe7JqfgN4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Alinazik istiyoruz :) :)",
+            "textOriginal": "Alinazik istiyoruz :) :)",
+            "authorDisplayName": "Rüstem KILIÇ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqMas2dw4u9mNm_icTms77ycwny6Gn2BIGEfDazr2g=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCAdn6Esn4Ib2IaLIuYgjDzw",
+            "authorChannelId": {
+              "value": "UCAdn6Esn4Ib2IaLIuYgjDzw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:38:25Z",
+            "updatedAt": "2023-05-10T13:38:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "P-voUefauBFem4Y3I-1phXzAFxE",
+      "id": "Ugy8B_HLXgcCkB56FGV4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "lUsD7HB0ZtGWQCvhlEpWZK-S0C8",
+          "id": "Ugy8B_HLXgcCkB56FGV4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir-Kopya oyunu oyuncalar npc civcivlerin arasında npc  taklidi yaparak saklanmaya çalışacak. 2 Grup olacak yakalayanlar ve Saklananlar , saklananların görevi belli puzeler çözerek her hangi bir materyeli ele geçirmek mantık olarakda diğer takımda yakalamaya çalışacak.  Tabi yaklayanlarda npc taklidi yapabilir\u003cbr\u003e\u003cbr\u003eOyun merakla bekliyorum",
+            "textOriginal": "fpfikir-Kopya oyunu oyuncalar npc civcivlerin arasında npc  taklidi yaparak saklanmaya çalışacak. 2 Grup olacak yakalayanlar ve Saklananlar , saklananların görevi belli puzeler çözerek her hangi bir materyeli ele geçirmek mantık olarakda diğer takımda yakalamaya çalışacak.  Tabi yaklayanlarda npc taklidi yapabilir\n\nOyun merakla bekliyorum",
+            "authorDisplayName": "Moon",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNJOI3rZzGIUKbejKb1u-JYbk8QyqUo1dmCDo_0Pw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCAQIC1LptY9twKxyxwQMJYA",
+            "authorChannelId": {
+              "value": "UCAQIC1LptY9twKxyxwQMJYA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:38:23Z",
+            "updatedAt": "2023-05-10T13:38:23Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "BHDK8rZtZo1mjlnMIn9wpw9-fm4",
+      "id": "Ugyi1fNwBdL_shqfUVJ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "6x7qw93UsDBeDAtBkT8Wv1mobaQ",
+          "id": "Ugyi1fNwBdL_shqfUVJ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- Ben Throwia&#39;da olmasını çok istediğim birşeyi söylemek istedim. Oyunun mutlaka birden fazla kişi ile tek ekranda offline bir şekilde oynanması lazım.",
+            "textOriginal": "fpfikir- Ben Throwia'da olmasını çok istediğim birşeyi söylemek istedim. Oyunun mutlaka birden fazla kişi ile tek ekranda offline bir şekilde oynanması lazım.",
+            "authorDisplayName": "yusuf evcil",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNTyDkvo_Ths0xeIvNmUyF2yjQ0_rKXhxPWfJXsNjAxo2rosN2wMwxbbXajoK5n=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCA70BGAUuO-xjGCi_Xwrvxg",
+            "authorChannelId": {
+              "value": "UCA70BGAUuO-xjGCi_Xwrvxg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:38:09Z",
+            "updatedAt": "2023-05-10T13:38:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "62T0ABaFAXz9HUA9mr3O7xSB5fk",
+      "id": "UgzC9l1lTyuokDY0r1V4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vPymCVSMV5ofPRJeBuLKpFz8_jQ",
+          "id": "UgzC9l1lTyuokDY0r1V4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- bir oyun modu olarak kızgın biçerdöverlerden kaçmak olabilir veya biçerdöverler ile birbirlerini ezmek gibi",
+            "textOriginal": "fpfikir- bir oyun modu olarak kızgın biçerdöverlerden kaçmak olabilir veya biçerdöverler ile birbirlerini ezmek gibi",
+            "authorDisplayName": "Hacı ÇAKIN",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqN6OPP8YinKyEPIDbF7obC1v_XwZ7u24j_kJWV-=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCjGOmz9YFY4tD96kMuvSEJw",
+            "authorChannelId": {
+              "value": "UCjGOmz9YFY4tD96kMuvSEJw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:37:19Z",
+            "updatedAt": "2023-05-10T13:37:19Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "cevZ-JuMYqCjYdiBnrjl_txEgps",
+      "id": "UgxBUHzPyx5NUcvFjcp4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KHqWLofZ7WB_xQNPgKbWzIbXEF8",
+          "id": "UgxBUHzPyx5NUcvFjcp4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "kanka cakma fallguy neden pekii",
+            "textOriginal": "kanka cakma fallguy neden pekii",
+            "authorDisplayName": "Berkay Cantorun",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/U-oJSBGhofUZO0bBNSTf-RDRvDxdCRH8A6FSvhHcoX8DE973MUtyzGfC64zOkLdoxOUsOZj_Bmk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCNX-V3azGvZD1qDN7F8jrww",
+            "authorChannelId": {
+              "value": "UCNX-V3azGvZD1qDN7F8jrww"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:37:17Z",
+            "updatedAt": "2023-05-10T13:37:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "b5Er41HcskuT7pwCSBMRzy5usD4",
+      "id": "UgwwgkTt4VK4piia8mR4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "TMroWpUuK24wBKNbFVGtVsn3Rd4",
+          "id": "UgwwgkTt4VK4piia8mR4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Benimde bilgisayarım olsa oyun yapmak isterim.canım sıkılınca kurduğum hikayeler gow gibi oyunların hikayesinden iyi",
+            "textOriginal": "Benimde bilgisayarım olsa oyun yapmak isterim.canım sıkılınca kurduğum hikayeler gow gibi oyunların hikayesinden iyi",
+            "authorDisplayName": "ClashRoyaleAze",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/rzUHRmUJRCSzc6w4Ug_qt5Ji2lr0_ug_arn0cbZlS_prCZ4sGm_fqcdJqE_-JOtROKvTl3wsmg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC7CR0XS0473bdiG_Wz14Ykg",
+            "authorChannelId": {
+              "value": "UC7CR0XS0473bdiG_Wz14Ykg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:37:10Z",
+            "updatedAt": "2023-05-10T13:37:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "TCmzymNxH6kFNsBQ3_hddecxPQY",
+      "id": "Ugwhq2sGOFuABxPfm4x4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "eTqOEciXx4oD8_YhFX0m2NDJZT4",
+          "id": "Ugwhq2sGOFuABxPfm4x4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Oyun konseptlerini Suat&#39;ın yaptığına yemin edebilirim ama kanıtlayamam kskdmfmfmf",
+            "textOriginal": "Oyun konseptlerini Suat'ın yaptığına yemin edebilirim ama kanıtlayamam kskdmfmfmf",
+            "authorDisplayName": "KesitKingdom",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/qlOJRt2hh6mHUzyTQrlvlSKVSv67BmbbWVjEJ1udps4Gv5_9GCb6pjP4j4WHOoVUiQRurCi03w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkGFZQsY1l1g-TR1FgzY-3g",
+            "authorChannelId": {
+              "value": "UCkGFZQsY1l1g-TR1FgzY-3g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:36:56Z",
+            "updatedAt": "2023-05-10T13:36:56Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "EAWN1w9lfmYecSgzRRrJSvhTT0U",
+      "id": "Ugww81FL8poJso59xTd4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Omfn4Qy1GyD6kKR6UkY9DUkKBEY",
+          "id": "Ugww81FL8poJso59xTd4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Ben throeia yı heyecanla bekliyorum",
+            "textOriginal": "Ben throeia yı heyecanla bekliyorum",
+            "authorDisplayName": "Yamanus",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/q9PaLIVQCrKhx9WBcyuRCI23gqtK1wNX5fvMAPtXZUa4JCyd0YBN4CPTSgmC9LoMjiB9iqbyxQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6cMqYogZasqpc6wEZ6S7Zg",
+            "authorChannelId": {
+              "value": "UC6cMqYogZasqpc6wEZ6S7Zg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:36:48Z",
+            "updatedAt": "2023-05-10T13:36:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "rVSZlT6POyhdirgTqoAsRP22lfg",
+      "id": "UgzhK5oKuZjgVNTP43F4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "D7iFRYIxAj3v6FJgM8Ua8apRPyM",
+          "id": "UgzhK5oKuZjgVNTP43F4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Fpfikir-- simdi bunlar civciv ya oyun modlarindan birinde bir karga Olsun ucarak bizi yakalamaya calissin bizde ondan kacmaya calisalim",
+            "textOriginal": "Fpfikir-- simdi bunlar civciv ya oyun modlarindan birinde bir karga Olsun ucarak bizi yakalamaya calissin bizde ondan kacmaya calisalim",
+            "authorDisplayName": "Nihad_king",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/cOFEcbgJOQru-gHArsa3Hbsk8qvoPDUGs_3QYmJLlOa_l8U738-jTr-xZ3av9bEfl4rqfwS_Xw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC5QfGmZNmiwl58mAotNkchQ",
+            "authorChannelId": {
+              "value": "UC5QfGmZNmiwl58mAotNkchQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:36:42Z",
+            "updatedAt": "2023-05-10T13:36:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "boK4GFVcb64r4_dbPPik29zx-lE",
+      "id": "UgxDZqjI5RkOX_u-lc14AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "3c6igQNAjRvx6N7t8fgig2V8u8s",
+          "id": "UgxDZqjI5RkOX_u-lc14AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Animal partynin çıkmasını  bekleyemeyince TK ekibi olur gibi:",
+            "textOriginal": "Animal partynin çıkmasını  bekleyemeyince TK ekibi olur gibi:",
+            "authorDisplayName": "Eren Solmaz",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/8yrhDUiQVK7gcx1IwSgCgjJXZ2xoJxV3L4ks7UjkOBZpv87L2ip1WIgZk51VSby4VLRF1O7C9Bg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRvRUspS1UK5m_DrbV3zLUg",
+            "authorChannelId": {
+              "value": "UCRvRUspS1UK5m_DrbV3zLUg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:36:36Z",
+            "updatedAt": "2023-05-10T13:36:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "vPljsz37rzzndFlolBfTxft0Ge0",
+      "id": "Ugw3_r8WHOjUQIBaL254AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "-D8FJV_gV6Q4CPIACu4AW4iuNR4",
+          "id": "Ugw3_r8WHOjUQIBaL254AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Fpfikir- Parkur oyununda rastgele yerlerde çıkan bir ip olabilir mesela rakip ateşin üzerinden atlarken bağlayıp düşmesini sağlarız ateşe düşen civcivde mangal olsa çok komik olur bence 😆",
+            "textOriginal": "Fpfikir- Parkur oyununda rastgele yerlerde çıkan bir ip olabilir mesela rakip ateşin üzerinden atlarken bağlayıp düşmesini sağlarız ateşe düşen civcivde mangal olsa çok komik olur bence 😆",
+            "authorDisplayName": "Wuhsin_RS",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/rLGL14Ek6nU_F1Ot89MphYL-Ns73JEl4nu-wqz2T2tfRpa3cFCtXBRS6ki9ZmiZNODeqjP447A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRh-aYS4kqOBDcPYdUwU10g",
+            "authorChannelId": {
+              "value": "UCRh-aYS4kqOBDcPYdUwU10g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:36:30Z",
+            "updatedAt": "2023-05-10T13:36:30Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "DpMpdShT9CsVNsBu2UFTtYpv_3w",
+      "id": "UgxXYOKfL-d58MxawrZ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Mkl2orpRlbLyrJaeBY9tZb7DHC0",
+          "id": "UgxXYOKfL-d58MxawrZ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Abi çok güzel oyun olmuş elinize emeğinize sağlık daha güzel daha iyi oyunlara inşallah 😅",
+            "textOriginal": "Abi çok güzel oyun olmuş elinize emeğinize sağlık daha güzel daha iyi oyunlara inşallah 😅",
+            "authorDisplayName": "MaVeRiCK",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/S_JJucCoSoMswFGzduQSgu0q80AqUIjcTeOZ7RsvaskEipjYtTrDQz2ztaec1IrraVDAz7Um=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC-Ma91QIWunKZCID-pGmNeg",
+            "authorChannelId": {
+              "value": "UC-Ma91QIWunKZCID-pGmNeg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:36:27Z",
+            "updatedAt": "2023-05-10T13:36:27Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "h53W91ak-wQ1xcSj0gHO72_EvXY",
+      "id": "UgyurLi9BAm9Ewr0ilN4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "HonVaZnIgNbS6PkpJ_HyEJBVXLs",
+          "id": "UgyurLi9BAm9Ewr0ilN4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "çok güzel bir oyuna benziyor ekiple çok güzel maçlar döneceğine eminim",
+            "textOriginal": "çok güzel bir oyuna benziyor ekiple çok güzel maçlar döneceğine eminim",
+            "authorDisplayName": "Vezir Hazretleri",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/wtEgrzguaaTccDii3r9mQQFVlAX2VuCjVs6EiUAuy37NBqg5wGpSMPEKQdcsm7UfgelLXE5Whkg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCF-uglAjZa02uBua8x3BKtg",
+            "authorChannelId": {
+              "value": "UCF-uglAjZa02uBua8x3BKtg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:36:25Z",
+            "updatedAt": "2023-05-10T13:36:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "-kmPGCF5bgs76F7J62quQ5MsrgE",
+      "id": "UgxGe2yW5o_-gZGVdV14AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "oy0giMBpELzUanbV38Kzgm0VZY8",
+          "id": "UgxGe2yW5o_-gZGVdV14AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Garaktersiz kuş gameplay",
+            "textOriginal": "Garaktersiz kuş gameplay",
+            "authorDisplayName": "Mr.Buruno",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNLTfYucS0xek446eIojidqlcIIFNNlQgC1RgytMCdcdMrn3-IBn0BvRRUaQZ19=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCxWi2R6HNWC55R2TP3P5beQ",
+            "authorChannelId": {
+              "value": "UCxWi2R6HNWC55R2TP3P5beQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:35:52Z",
+            "updatedAt": "2023-05-10T13:35:52Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "WoICjykeKwuFdLR5clsmxh38i3s",
+      "id": "UgwEkes7c_x9I-tLwf14AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vFImagY_w0_m1objkhPv5n2a_h0",
+          "id": "UgwEkes7c_x9I-tLwf14AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Pubg gibi bir oyunda bekliyoruz be abi",
+            "textOriginal": "Pubg gibi bir oyunda bekliyoruz be abi",
+            "authorDisplayName": "KesitKingdom",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/qlOJRt2hh6mHUzyTQrlvlSKVSv67BmbbWVjEJ1udps4Gv5_9GCb6pjP4j4WHOoVUiQRurCi03w=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCkGFZQsY1l1g-TR1FgzY-3g",
+            "authorChannelId": {
+              "value": "UCkGFZQsY1l1g-TR1FgzY-3g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:35:44Z",
+            "updatedAt": "2023-05-10T13:35:44Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QKS5JjAM07nEODt3DZTgIu5L73g",
+      "id": "Ugy7clNnE3eSeX0i29x4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "SPwCx33NC-u_fRPfEF3ryvn9Kpk",
+          "id": "Ugy7clNnE3eSeX0i29x4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Fpfikir - yada bir oyun olabilir herkese rastegele bir yetenek verilan bir oyun",
+            "textOriginal": "Fpfikir - yada bir oyun olabilir herkese rastegele bir yetenek verilan bir oyun",
+            "authorDisplayName": "Sihad Duski",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqO29WRtu6id1GaqPStmEpl5uPjMdClzs-UCHl3VlQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRkTXfWx9eZXyq78IlNZY7A",
+            "authorChannelId": {
+              "value": "UCRkTXfWx9eZXyq78IlNZY7A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:35:41Z",
+            "updatedAt": "2023-05-10T13:35:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "PDmrGfwNyZyJKJD5g43QG8GAuyE",
+      "id": "UgxilH7mHEenSSS7W5d4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Ik2wEu0zWmafjxr2KsvvBj5gzzs",
+          "id": "UgxilH7mHEenSSS7W5d4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir - Muhtemelen vardır ama bu tarz mekanik ve tatlı görünüşte oyunlarda ben 3-4-5 kişiyle bulmaca çözme bi yerden çıkmaya çalışma veya bulmaca çözerken yanında farklı oyun modlarını (parkur+bulmaca gibi) oynaması da izlemesi de zevkli oluyor. Oyuncu sayısına göre oynananması gereken ve her oyuncunun min belli bi katkı yapması gereken modlar olursa güzel olabilir. Bu zorluklara göre ilerleyen etaplardan oluşabilir ve oyunda bulunan daha değişik bi zevk verir diyorum. Daha ayrıntılı 2-3 kişilik bulmacaların her oyuncunun farklı yerlerde ve birbirini görmediği şekilde konuşarak yardımlaşarak çözmeye çalıştığı veya 4 veya daha fazla oyunculu ortak bir alanda biraz kaos biraz da beraber planla geçilebilecek tarzda bulmacalar olabilir.",
+            "textOriginal": "fpfikir - Muhtemelen vardır ama bu tarz mekanik ve tatlı görünüşte oyunlarda ben 3-4-5 kişiyle bulmaca çözme bi yerden çıkmaya çalışma veya bulmaca çözerken yanında farklı oyun modlarını (parkur+bulmaca gibi) oynaması da izlemesi de zevkli oluyor. Oyuncu sayısına göre oynananması gereken ve her oyuncunun min belli bi katkı yapması gereken modlar olursa güzel olabilir. Bu zorluklara göre ilerleyen etaplardan oluşabilir ve oyunda bulunan daha değişik bi zevk verir diyorum. Daha ayrıntılı 2-3 kişilik bulmacaların her oyuncunun farklı yerlerde ve birbirini görmediği şekilde konuşarak yardımlaşarak çözmeye çalıştığı veya 4 veya daha fazla oyunculu ortak bir alanda biraz kaos biraz da beraber planla geçilebilecek tarzda bulmacalar olabilir.",
+            "authorDisplayName": "Yağız F",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/AlFRmnc89YKDFvR9ZiHAZOW9HlYBd3BdyjxWSDr0hgEUAZP4LJeDBQYTbuQra1iI8seOCIKGjg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC6mvOGGm4BOfEcfd8lseW_w",
+            "authorChannelId": {
+              "value": "UC6mvOGGm4BOfEcfd8lseW_w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 31,
+            "publishedAt": "2023-05-10T13:35:22Z",
+            "updatedAt": "2023-05-10T13:35:22Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "s33-Jzr6qq_57hWRdzZmp7oFwxM",
+      "id": "UgyOVxKPv70cUQMSiel4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "EJFcVKUT-LP6W_KsRK5SipmbDgA",
+          "id": "UgyOVxKPv70cUQMSiel4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Fall guys oyundan atınca daha iyisini yapmaya karar vermişler\u003cbr\u003e|İZLEMEDİM|",
+            "textOriginal": "Fall guys oyundan atınca daha iyisini yapmaya karar vermişler\n|İZLEMEDİM|",
+            "authorDisplayName": "YUSUF GÜMÜŞ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOiBUct2Jf8UB8SBJOtxpO2F2e9LP_EgX45Ucst=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCazuU-yEUtVR6Kp3S1UezzQ",
+            "authorChannelId": {
+              "value": "UCazuU-yEUtVR6Kp3S1UezzQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:35:03Z",
+            "updatedAt": "2023-05-10T13:35:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "afY38MFUO663OJubjtcg75Lm-Kc",
+      "id": "UgwcTLtfTk0gLLCaT154AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "QgpSu_BV8qL8Y2swEo2w8nCEz6I",
+          "id": "UgwcTLtfTk0gLLCaT154AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Fpfikir - araba yarişi olabilir yada basit bir satranç oyunu",
+            "textOriginal": "Fpfikir - araba yarişi olabilir yada basit bir satranç oyunu",
+            "authorDisplayName": "Sihad Duski",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqO29WRtu6id1GaqPStmEpl5uPjMdClzs-UCHl3VlQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRkTXfWx9eZXyq78IlNZY7A",
+            "authorChannelId": {
+              "value": "UCRkTXfWx9eZXyq78IlNZY7A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:34:41Z",
+            "updatedAt": "2023-05-10T13:34:41Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "D9jlEYG3YiCGi4g_CALNqh8nb1E",
+      "id": "UgytRiFEeFHmohNfe9F4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MO0a4_l62UorxQnoNbvSV90nTvs",
+          "id": "UgytRiFEeFHmohNfe9F4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- Yer boyama oyunu: Oyuncular üstünden geçtikleri kareleri kendi rengine boyasın en çok kare boyayan kazanır.",
+            "textOriginal": "fpfikir- Yer boyama oyunu: Oyuncular üstünden geçtikleri kareleri kendi rengine boyasın en çok kare boyayan kazanır.",
+            "authorDisplayName": "ARIZA34",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNCNNtT3MeJQR3u1_TDGImpD_gN7KGHBm-beo8-J1jVngFpWB3i74v7jn__uQ38=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCcDEkFloh0kWSx9Z9bZQteQ",
+            "authorChannelId": {
+              "value": "UCcDEkFloh0kWSx9Z9bZQteQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:34:36Z",
+            "updatedAt": "2023-05-10T13:34:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "sBVnquTMCHcqCUJ2H0KgDxBd0E0",
+      "id": "UgygbG--qXXIEbj9guJ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Sqi5NdAemYB2v4g6CKvIgMKpQJI",
+          "id": "UgygbG--qXXIEbj9guJ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- ana menüde insanları bekleme sıkıcı olabilir bir parkur eklenebilir , oyun modu olarakta karakterlerin kapışdığı bir arena benzeri birşey olabilir bunları zaten ileride ekleyeceğinizi biliyorum oyuna yeni şeyler eklerken klasik ve sadeliğinin bozulmamasını öneririm (oyuna eklenen kozmetiklerin oyunu karmaşık bir hale getirmesi vb.) başarılarınızın devamını dilerim",
+            "textOriginal": "fpfikir- ana menüde insanları bekleme sıkıcı olabilir bir parkur eklenebilir , oyun modu olarakta karakterlerin kapışdığı bir arena benzeri birşey olabilir bunları zaten ileride ekleyeceğinizi biliyorum oyuna yeni şeyler eklerken klasik ve sadeliğinin bozulmamasını öneririm (oyuna eklenen kozmetiklerin oyunu karmaşık bir hale getirmesi vb.) başarılarınızın devamını dilerim",
+            "authorDisplayName": "Kır Bıyık",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOUCVTaaas7SCiYfBwLCPWtzTPjAT2u2-rZBnaVccwjZ6IhXYcX2gN4vngTq5yw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCKUt_vWdH-M7q0HhH51zNzg",
+            "authorChannelId": {
+              "value": "UCKUt_vWdH-M7q0HhH51zNzg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 113,
+            "publishedAt": "2023-05-10T13:34:36Z",
+            "updatedAt": "2023-05-10T13:34:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "gbPZ-HdeE8gbJm2fsAXIB_MjNeA",
+      "id": "Ugza9N-3F1yHKrWT-A94AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "ku3PXmWWvcZ9CNAws7Lwnlfp3-0",
+          "id": "Ugza9N-3F1yHKrWT-A94AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Hayirli olsun ❤❤❤",
+            "textOriginal": "Hayirli olsun ❤❤❤",
+            "authorDisplayName": "samirtime",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/8rejOlsQ2EovjkJkLWObK9M6wSBHSkPiqzFhGchrnrzFDee3kjBB66o2o77N59i8BLNDdT-u=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCQuLsOyhq-hz4OyYdxXaA6Q",
+            "authorChannelId": {
+              "value": "UCQuLsOyhq-hz4OyYdxXaA6Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:34:36Z",
+            "updatedAt": "2023-05-10T13:34:36Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 1,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "zi2KayZRNwVKarmV5osTXB2Mwcs",
+      "id": "UgzBd3GwmDpUQwplZhB4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "F9IARgJeWb3GDfkoiC4GU78-1js",
+          "id": "UgzBd3GwmDpUQwplZhB4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Gerçekten mükemmel bir ekipsiniz başarılarınızın devamını diliyorum ❤❤❤❤",
+            "textOriginal": "Gerçekten mükemmel bir ekipsiniz başarılarınızın devamını diliyorum ❤❤❤❤",
+            "authorDisplayName": "Vahapdmr",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOHHEZ7NPlyrr0Vud4XOvw5FiOaTXUgwJAJbaDWVlk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCVBnnsbRk7HNxtxs26nrj_w",
+            "authorChannelId": {
+              "value": "UCVBnnsbRk7HNxtxs26nrj_w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 4,
+            "publishedAt": "2023-05-10T13:34:28Z",
+            "updatedAt": "2023-05-10T13:34:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "7VlviTVDJQ_CgU5jtGpG6jJrI_M",
+      "id": "UgwfILygbA3v-Mq0Gwh4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "wnwl-73LkAtSkggMgToUG9vhh_U",
+          "id": "UgwfILygbA3v-Mq0Gwh4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Çok ani oldu, hiç beklemiyordum yalan olmasın vallahi. Oyuna hemen gafa atıyorum 😀",
+            "textOriginal": "Çok ani oldu, hiç beklemiyordum yalan olmasın vallahi. Oyuna hemen gafa atıyorum 😀",
+            "authorDisplayName": "Pilot121 ",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/zpgMSX-47vH7B4VPqXsIbXW84y_brKQt5g8fE_-t48ElwOfyWWBhU9bn4fScUGqdPA7A-VFiAA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCR6hYrRtBrZPZExcB2cgmdQ",
+            "authorChannelId": {
+              "value": "UCR6hYrRtBrZPZExcB2cgmdQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:34:17Z",
+            "updatedAt": "2023-05-10T13:34:17Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "QHxha3qxW170GN04FdrsGTQupds",
+      "id": "UgzhIUboNScdGs-XAo14AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "00bX3ErRMOeBhjwe0u1YWHH_kWQ",
+          "id": "UgzhIUboNScdGs-XAo14AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Hayırlı olsun abi mobil gelir mi",
+            "textOriginal": "Hayırlı olsun abi mobil gelir mi",
+            "authorDisplayName": "Ömer Faruk YİĞİT",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNcQLLbrYlqX3erSUVpUVtTbID1h1WdX-NjRA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCYkgxRO9BkUEms2t8OoFQig",
+            "authorChannelId": {
+              "value": "UCYkgxRO9BkUEms2t8OoFQig"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:34:15Z",
+            "updatedAt": "2023-05-10T13:34:15Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 4,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "JP1U4MIEz9JaWYo5jokejzdPK10",
+      "id": "UgxUSwswyKiIgYf2Uqh4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "hZM40buQINaX_A3Rv5dqtVgbD7k",
+          "id": "UgxUSwswyKiIgYf2Uqh4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Hayırlı olsun. ❤❤❤",
+            "textOriginal": "Hayırlı olsun. ❤❤❤",
+            "authorDisplayName": "ömer yıldırım",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/KjNE6_6vvYoaHpqMswMbEjEYfJhB7B6mzUBY_o-TaCueOBuB2cNfZ78PMnkK7oOD1Ocn6D_n=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCGzitym-m5V5I5fT_OI5l7Q",
+            "authorChannelId": {
+              "value": "UCGzitym-m5V5I5fT_OI5l7Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:34:10Z",
+            "updatedAt": "2023-05-10T13:34:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "8CqZE7JsgEfqPg9-3e4tbmtXNjk",
+      "id": "UgwgYxulsA2Yan-7gyx4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "0GZJtMLK_x6Dgi2hnUnGXoMXKKw",
+          "id": "UgwgYxulsA2Yan-7gyx4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir-tonlarca fikir var o yüzden biraz kısa anlat cam\u003cbr\u003e1-minecraftda dropper modunu biliyorsunuzdur engellere çarpmadan en aşağa indiğimiz onu bu oyuna uyarlayabilirsiniz minigame yada başka mod olarak\u003cbr\u003e2-kostümler ve karakterlerin yanlarında taşıyabilecekleri minik yavrular olsun\u003cbr\u003e3liderlik tablosu \u003cbr\u003e4-lobby de beklerken yapabileceğimiz random gelen parkurlar olsun\u003cbr\u003e5-(bu fikir party panicden aklıma geldi) parkur modu olsun en hızlı şekilde parkuru bitirmeye çalışak \u003cbr\u003e6-(gene party panicden) serbestçe gezebilceğimiz bi dünya olsun\u003cbr\u003e7-market sistemi bunla birlikte yeni profiller isim etiketleri kostünler yavrular alak\u003cbr\u003e8-minigame önerileri saklambaç squid game deki kırmızı ışık yeşil ışık ve cam oyunu dövüş (sona hayatda kalan kazancak)ve hayallerden kaç(gene party panicden ve bunda başta 1 her geçen sürede hayaletler artıyor ölenlerde hayalet oluyor)\u003cbr\u003eBu fikirlerden bazılarını yada çoğunluğunu yaparsanız sevinirim iyi günler",
+            "textOriginal": "fpfikir-tonlarca fikir var o yüzden biraz kısa anlat cam\n1-minecraftda dropper modunu biliyorsunuzdur engellere çarpmadan en aşağa indiğimiz onu bu oyuna uyarlayabilirsiniz minigame yada başka mod olarak\n2-kostümler ve karakterlerin yanlarında taşıyabilecekleri minik yavrular olsun\n3liderlik tablosu \n4-lobby de beklerken yapabileceğimiz random gelen parkurlar olsun\n5-(bu fikir party panicden aklıma geldi) parkur modu olsun en hızlı şekilde parkuru bitirmeye çalışak \n6-(gene party panicden) serbestçe gezebilceğimiz bi dünya olsun\n7-market sistemi bunla birlikte yeni profiller isim etiketleri kostünler yavrular alak\n8-minigame önerileri saklambaç squid game deki kırmızı ışık yeşil ışık ve cam oyunu dövüş (sona hayatda kalan kazancak)ve hayallerden kaç(gene party panicden ve bunda başta 1 her geçen sürede hayaletler artıyor ölenlerde hayalet oluyor)\nBu fikirlerden bazılarını yada çoğunluğunu yaparsanız sevinirim iyi günler",
+            "authorDisplayName": "tapgamYT",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPDsGDJNotQl0ScIFjux1LlPTCEYy-PzkxX7PlMoiIKY8yk-TQ1twf7Voi5vBNz=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCGq7TQWADbUV9kRsu-IG6xA",
+            "authorChannelId": {
+              "value": "UCGq7TQWADbUV9kRsu-IG6xA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:34:10Z",
+            "updatedAt": "2023-05-10T13:34:10Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "blaIv_3iOBh6Md4vYofh_B4fDQE",
+      "id": "UgzMIKe3lSZuwRC_9114AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "i6l6se4Ocguxd5tKAVickmVEstw",
+          "id": "UgzMIKe3lSZuwRC_9114AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Vayy süperr🤩👍👍",
+            "textOriginal": "Vayy süperr🤩👍👍",
+            "authorDisplayName": "Mert・",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNwiF2xrTcVkx5AjBy_dPI_y67iKAfmDmAsK0JU7klPwWFiW-MLLHBcKVCcbcWg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCbpKPAE_2WhdJya8TkpZM_w",
+            "authorChannelId": {
+              "value": "UCbpKPAE_2WhdJya8TkpZM_w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:34:05Z",
+            "updatedAt": "2023-05-10T13:34:05Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "r8QDluVYVdL0VHwGVLmxHvES8uI",
+      "id": "UgzORkTghjyCeuXhWaR4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "7eGPiMfclJWHmIpqQdC1DaGSUpA",
+          "id": "UgzORkTghjyCeuXhWaR4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir - kendi bölümlerimizi kendimiz oluşturabiliriz",
+            "textOriginal": "fpfikir - kendi bölümlerimizi kendimiz oluşturabiliriz",
+            "authorDisplayName": "Ntrie",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/1U1aE9E8mFizgzPpkHkeI6JIGddfMv4laytytKBZ4GGN1yOsSLceVSxN6wFFA9vadIJOjANDrg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UC09C5naQoxcZgykHQduqU1w",
+            "authorChannelId": {
+              "value": "UC09C5naQoxcZgykHQduqU1w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:33:59Z",
+            "updatedAt": "2023-05-10T13:33:59Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "SexvQrs0668sZPdxgLb0xWTHJLs",
+      "id": "UgxP3jnTZ9tI7AW76BZ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "sZv7QlcdMCDkn52Je1JWdkL4boM",
+          "id": "UgxP3jnTZ9tI7AW76BZ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Oyunu wish List eklemek çok önemli arkadaşlar.. Mutlaka ekleyin ki bir çok arkadaşımızın da keşfet listesine düşsün &lt;3",
+            "textOriginal": "Oyunu wish List eklemek çok önemli arkadaşlar.. Mutlaka ekleyin ki bir çok arkadaşımızın da keşfet listesine düşsün \u003c3",
+            "authorDisplayName": "ElySooN",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNuX_-iPdPYfVn98-_8XBDhpJJwCHorhkqIikpsaw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCr6kIvdG2iRyUGVpsVtWiHw",
+            "authorChannelId": {
+              "value": "UCr6kIvdG2iRyUGVpsVtWiHw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 381,
+            "publishedAt": "2023-05-10T13:33:57Z",
+            "updatedAt": "2023-05-10T13:33:57Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 8,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "184ZfluO01KzvFi5OTDqJrasuA4",
+      "id": "Ugylj2UvRPFlI-WVOLp4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "aOgDlrK2i6G9DiDPl0SyEuK6sdE",
+          "id": "Ugylj2UvRPFlI-WVOLp4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir- fikrim odur ki birbirinin üzerine çıkan karakterler ve bir tepeden aşağı doğru yuvarlanarak yapılan parkur ve civciv lobide spam olmasın yumurtasını kırarak cıksın ,  başka bir oyun modu da yem kovalamaca ola bilir",
+            "textOriginal": "fpfikir- fikrim odur ki birbirinin üzerine çıkan karakterler ve bir tepeden aşağı doğru yuvarlanarak yapılan parkur ve civciv lobide spam olmasın yumurtasını kırarak cıksın ,  başka bir oyun modu da yem kovalamaca ola bilir",
+            "authorDisplayName": "musa abbasov",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPI_oG98STpUf1FcfRPnL-hF_hoMO9vCfkrlBU6RQ=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCoW5fBK8eO4-7HYP0fYdT7Q",
+            "authorChannelId": {
+              "value": "UCoW5fBK8eO4-7HYP0fYdT7Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:33:48Z",
+            "updatedAt": "2023-05-10T13:33:48Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "HaXEph4C51N0Z-napHSY2YAYrXU",
+      "id": "Ugx6pSAj9x_jAF8Rl9J4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "qzrEWKQqFWPBKJl3PL06C6Z8o_U",
+          "id": "Ugx6pSAj9x_jAF8Rl9J4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "fpfikir - oyuncu kostümleri gelirse kesinlikle angrybirds deki red karakteri olsun çok güzel olur",
+            "textOriginal": "fpfikir - oyuncu kostümleri gelirse kesinlikle angrybirds deki red karakteri olsun çok güzel olur",
+            "authorDisplayName": "Arda",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqPC_4xjy3G8j5aALOpw7hFha18P1WZUPQcltVLVTzt5hK3SxDfDemO3IxubBdgu=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCrETQWcx3HEor5eSIjMJysw",
+            "authorChannelId": {
+              "value": "UCrETQWcx3HEor5eSIjMJysw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2023-05-10T13:33:42Z",
+            "updatedAt": "2023-05-10T13:33:42Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "GNT3sfRuENOyRDiEc_-IIDQkNoE",
+      "id": "UgynF9NiydE7lUQKSKp4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "d7pHYh6vVI11Fp1EHRNfCPwI_Sk",
+          "id": "UgynF9NiydE7lUQKSKp4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Fpfikir- Bomba attığımız o topu kullanarak yine gösterdiğin canavarlara karşı oyuncuların bir olup tower defense tarzı ama oyuncuyu sıkmayan bir oyun olabilir",
+            "textOriginal": "Fpfikir- Bomba attığımız o topu kullanarak yine gösterdiğin canavarlara karşı oyuncuların bir olup tower defense tarzı ama oyuncuyu sıkmayan bir oyun olabilir",
+            "authorDisplayName": "Wuhsin_RS",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/rLGL14Ek6nU_F1Ot89MphYL-Ns73JEl4nu-wqz2T2tfRpa3cFCtXBRS6ki9ZmiZNODeqjP447A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCRh-aYS4kqOBDcPYdUwU10g",
+            "authorChannelId": {
+              "value": "UCRh-aYS4kqOBDcPYdUwU10g"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 6,
+            "publishedAt": "2023-05-10T13:33:37Z",
+            "updatedAt": "2023-05-10T13:33:37Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "wwJy-2SRPXZCdS_BbcnV7_HDXdM",
+      "id": "UgxTA4SVbgz9_pJUKFp4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JOwaabGzZHzYlAjeAcTcS3YYFiQ",
+          "id": "UgxTA4SVbgz9_pJUKFp4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Valla animasyonlar çok hoşuma gitti direkt gülmeye başladım fragman başında oynarken nasıl olur artık düşünüyorum bile😂 Ekibi tanıdığım bu kısa bir yıl süre zarfında gelişiminizi ve çalışmalarınızı ön koltuktan seyrettik desem abartmam sanırım. Her şey gönlünüzce olsun umarım çok iyi sonuçlar alırsınız seviliyorsunuz TK ailesi ❤",
+            "textOriginal": "Valla animasyonlar çok hoşuma gitti direkt gülmeye başladım fragman başında oynarken nasıl olur artık düşünüyorum bile😂 Ekibi tanıdığım bu kısa bir yıl süre zarfında gelişiminizi ve çalışmalarınızı ön koltuktan seyrettik desem abartmam sanırım. Her şey gönlünüzce olsun umarım çok iyi sonuçlar alırsınız seviliyorsunuz TK ailesi ❤",
+            "authorDisplayName": "Bekir AYDEMİR",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqOUa-S58VXH4H8X_S9j-KiaiKJNFpDxNzfNlWUX1BI=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCHRrj2twWkIJN_7LhWWDiqQ",
+            "authorChannelId": {
+              "value": "UCHRrj2twWkIJN_7LhWWDiqQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 25,
+            "publishedAt": "2023-05-10T13:33:35Z",
+            "updatedAt": "2023-05-10T13:33:35Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 3,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ywzCq9-QvTpAnQZZ09gp9E24V4k",
+      "id": "UgynOlXyIodBJi1LmjZ4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "B45Z5JReRghJRqeWo4ahkmniAiE",
+          "id": "UgynOlXyIodBJi1LmjZ4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Çok Güzel Projeler ve Oyunlarla Neşenizin Neşemizin Daim olduğu nice güzel haberlere 💕",
+            "textOriginal": "Çok Güzel Projeler ve Oyunlarla Neşenizin Neşemizin Daim olduğu nice güzel haberlere 💕",
+            "authorDisplayName": "ElySooN",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AGIKgqNuX_-iPdPYfVn98-_8XBDhpJJwCHorhkqIikpsaw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCr6kIvdG2iRyUGVpsVtWiHw",
+            "authorChannelId": {
+              "value": "UCr6kIvdG2iRyUGVpsVtWiHw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 83,
+            "publishedAt": "2023-05-10T13:33:34Z",
+            "updatedAt": "2023-05-10T13:33:34Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "IaUBGDEQ6YBhTavK4K6tLCUPGU8",
+      "id": "Ugy_sRt9Gp8lC05hlup4AaABAg",
+      "snippet": {
+        "videoId": "OqnAWFqYVqk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "JJY6HzGpPC6IZuTMLZ2_vFJFHnk",
+          "id": "Ugy_sRt9Gp8lC05hlup4AaABAg",
+          "snippet": {
+            "videoId": "OqnAWFqYVqk",
+            "textDisplay": "Bu sporu yapıyorsunuz TK ekibi. Hakkıyla yapan tek tük insanlarda siniz. Ama Hakki ları yoktu bir hakkı bulalım.",
+            "textOriginal": "Bu sporu yapıyorsunuz TK ekibi. Hakkıyla yapan tek tük insanlarda siniz. Ama Hakki ları yoktu bir hakkı bulalım.",
+            "authorDisplayName": "Ali Eren Yüce",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/yoR1ujyE4OdtCviW6CfXrQphBCLggoPOO-Qn9Dq_a02-9zz0Hv5LukgYHoJymG-BaFieenHHqA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/channel/UCnEjoPDeYbdv85Us3eynFIA",
+            "authorChannelId": {
+              "value": "UCnEjoPDeYbdv85Us3eynFIA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2023-05-10T13:33:25Z",
+            "updatedAt": "2023-05-10T13:33:25Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 9,
+        "isPublic": true
+      }
+    }
+  ]
+}
